@@ -1,6 +1,9 @@
 # balkova-et-al-2026-scripts
 **Code accompanying:** Balková, D., Raj, R., Rieder, H. E., Camardo Leggieri, M., & Battilani, P. (2026). Predicting aflatoxin risk with seasonal meteorological forecast. *Environmental Research Letters*. https://doi.org/10.1088/1748-9326/ae3629
 
+**How to cite this repository:**
+darinabalkova. (2026). darinabalkova/balkova-et-al-2026-scripts: Initial release v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18247147
+
 This repository contains Python scripts for preprocessing climate data, evaluating agreement between reanalysis/forecast data and station observations, and evaluating model performance. The scripts support the analysis workflow described in the associated publication.
 
 ## Overview
