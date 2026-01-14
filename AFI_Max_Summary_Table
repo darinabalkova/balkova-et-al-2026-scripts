@@ -1,0 +1,2161 @@
+location,year,forecast_timing,run_type,afi_max
+Castel San Giovanni,2008,April,Station,18.63129178
+Castel San Giovanni,2008,April,ERA5-Land*,42.41304544
+Castel San Giovanni,2008,April,Forecast_Mean,33.24341818
+Castel San Giovanni,2008,June,Station,18.63129178
+Castel San Giovanni,2008,June,ERA5-Land*,42.41304544
+Castel San Giovanni,2008,June,Forecast_Mean,52.14485463
+Castel San Giovanni,2008,July,Station,18.63129178
+Castel San Giovanni,2008,July,ERA5-Land*,42.41304544
+Castel San Giovanni,2008,July,Forecast_Mean,57.62529886
+Castel San Giovanni,2008,August,Station,18.63129178
+Castel San Giovanni,2008,August,ERA5-Land*,42.41304544
+Castel San Giovanni,2008,August,Forecast_Mean,48.17832362
+Castel San Giovanni,2009,April,Station,29.36847654
+Castel San Giovanni,2009,April,ERA5-Land*,50.57464287
+Castel San Giovanni,2009,April,Forecast_Mean,31.59217924
+Castel San Giovanni,2009,June,Station,29.36847654
+Castel San Giovanni,2009,June,ERA5-Land*,50.57464287
+Castel San Giovanni,2009,June,Forecast_Mean,53.2495543
+Castel San Giovanni,2009,July,Station,29.36847654
+Castel San Giovanni,2009,July,ERA5-Land*,50.57464287
+Castel San Giovanni,2009,July,Forecast_Mean,53.73820819
+Castel San Giovanni,2009,August,Station,29.36847654
+Castel San Giovanni,2009,August,ERA5-Land*,50.57464287
+Castel San Giovanni,2009,August,Forecast_Mean,45.97595814
+Castel San Giovanni,2010,April,Station,17.06287128
+Castel San Giovanni,2010,April,ERA5-Land*,83.12135563
+Castel San Giovanni,2010,April,Forecast_Mean,35.7899386
+Castel San Giovanni,2010,June,Station,17.06287128
+Castel San Giovanni,2010,June,ERA5-Land*,83.12135563
+Castel San Giovanni,2010,June,Forecast_Mean,58.47913421
+Castel San Giovanni,2010,July,Station,17.06287128
+Castel San Giovanni,2010,July,ERA5-Land*,83.12135563
+Castel San Giovanni,2010,July,Forecast_Mean,86.39907846
+Castel San Giovanni,2010,August,Station,17.06287128
+Castel San Giovanni,2010,August,ERA5-Land*,83.12135563
+Castel San Giovanni,2010,August,Forecast_Mean,86.79106658
+Castel San Giovanni,2011,April,Station,34.05916622
+Castel San Giovanni,2011,April,ERA5-Land*,14.34235457
+Castel San Giovanni,2011,April,Forecast_Mean,39.05213129
+Castel San Giovanni,2011,June,Station,34.05916622
+Castel San Giovanni,2011,June,ERA5-Land*,14.34235457
+Castel San Giovanni,2011,June,Forecast_Mean,65.95811234
+Castel San Giovanni,2011,July,Station,34.05916622
+Castel San Giovanni,2011,July,ERA5-Land*,14.34235457
+Castel San Giovanni,2011,July,Forecast_Mean,63.48591007
+Castel San Giovanni,2011,August,Station,34.05916622
+Castel San Giovanni,2011,August,ERA5-Land*,14.34235457
+Castel San Giovanni,2011,August,Forecast_Mean,17.4871732
+Castel San Giovanni,2012,April,Station,13.15906628
+Castel San Giovanni,2012,April,ERA5-Land*,18.49801071
+Castel San Giovanni,2012,April,Forecast_Mean,35.94559603
+Castel San Giovanni,2012,June,Station,13.15906628
+Castel San Giovanni,2012,June,ERA5-Land*,18.49801071
+Castel San Giovanni,2012,June,Forecast_Mean,51.87231179
+Castel San Giovanni,2012,July,Station,13.15906628
+Castel San Giovanni,2012,July,ERA5-Land*,18.49801071
+Castel San Giovanni,2012,July,Forecast_Mean,59.01907846
+Castel San Giovanni,2012,August,Station,13.15906628
+Castel San Giovanni,2012,August,ERA5-Land*,18.49801071
+Castel San Giovanni,2012,August,Forecast_Mean,15.20948359
+Castel San Giovanni,2013,April,Station,0.608531721
+Castel San Giovanni,2013,April,ERA5-Land*,54.82098873
+Castel San Giovanni,2013,April,Forecast_Mean,28.52435536
+Castel San Giovanni,2013,June,Station,0.608531721
+Castel San Giovanni,2013,June,ERA5-Land*,54.82098873
+Castel San Giovanni,2013,June,Forecast_Mean,52.74146476
+Castel San Giovanni,2013,July,Station,0.608531721
+Castel San Giovanni,2013,July,ERA5-Land*,54.82098873
+Castel San Giovanni,2013,July,Forecast_Mean,56.85940861
+Castel San Giovanni,2013,August,Station,0.608531721
+Castel San Giovanni,2013,August,ERA5-Land*,54.82098873
+Castel San Giovanni,2013,August,Forecast_Mean,52.10081835
+Castel San Giovanni,2014,April,Station,26.22718187
+Castel San Giovanni,2014,April,ERA5-Land*,29.30223693
+Castel San Giovanni,2014,April,Forecast_Mean,39.35709742
+Castel San Giovanni,2014,June,Station,26.22718187
+Castel San Giovanni,2014,June,ERA5-Land*,29.30223693
+Castel San Giovanni,2014,June,Forecast_Mean,45.74924625
+Castel San Giovanni,2014,July,Station,26.22718187
+Castel San Giovanni,2014,July,ERA5-Land*,29.30223693
+Castel San Giovanni,2014,July,Forecast_Mean,52.21124464
+Castel San Giovanni,2014,August,Station,26.22718187
+Castel San Giovanni,2014,August,ERA5-Land*,29.30223693
+Castel San Giovanni,2014,August,Forecast_Mean,30.31145327
+Castel San Giovanni,2015,April,Station,100.4573231
+Castel San Giovanni,2015,April,ERA5-Land*,126.1383532
+Castel San Giovanni,2015,April,Forecast_Mean,46.23531629
+Castel San Giovanni,2015,June,Station,100.4573231
+Castel San Giovanni,2015,June,ERA5-Land*,126.1383532
+Castel San Giovanni,2015,June,Forecast_Mean,58.24948634
+Castel San Giovanni,2015,July,Station,100.4573231
+Castel San Giovanni,2015,July,ERA5-Land*,126.1383532
+Castel San Giovanni,2015,July,Forecast_Mean,113.4814235
+Castel San Giovanni,2015,August,Station,100.4573231
+Castel San Giovanni,2015,August,ERA5-Land*,126.1383532
+Castel San Giovanni,2015,August,Forecast_Mean,126.3549078
+Castel San Giovanni,2016,April,Station,8.474960362
+Castel San Giovanni,2016,April,ERA5-Land*,44.88087419
+Castel San Giovanni,2016,April,Forecast_Mean,34.22450168
+Castel San Giovanni,2016,June,Station,8.474960362
+Castel San Giovanni,2016,June,ERA5-Land*,44.88087419
+Castel San Giovanni,2016,June,Forecast_Mean,52.93934665
+Castel San Giovanni,2016,July,Station,8.474960362
+Castel San Giovanni,2016,July,ERA5-Land*,44.88087419
+Castel San Giovanni,2016,July,Forecast_Mean,61.3890171
+Castel San Giovanni,2016,August,Station,8.474960362
+Castel San Giovanni,2016,August,ERA5-Land*,44.88087419
+Castel San Giovanni,2016,August,Forecast_Mean,52.2519975
+Castel San Giovanni,2017,April,Station,12.70711543
+Castel San Giovanni,2017,April,ERA5-Land*,48.36055035
+Castel San Giovanni,2017,April,Forecast_Mean,31.59844201
+Castel San Giovanni,2017,June,Station,12.70711543
+Castel San Giovanni,2017,June,ERA5-Land*,48.36055035
+Castel San Giovanni,2017,June,Forecast_Mean,33.04732083
+Castel San Giovanni,2017,July,Station,12.70711543
+Castel San Giovanni,2017,July,ERA5-Land*,48.36055035
+Castel San Giovanni,2017,July,Forecast_Mean,43.14499028
+Castel San Giovanni,2017,August,Station,12.70711543
+Castel San Giovanni,2017,August,ERA5-Land*,48.36055035
+Castel San Giovanni,2017,August,Forecast_Mean,52.60157279
+Castel San Giovanni,2018,April,Station,21.11951238
+Castel San Giovanni,2018,April,ERA5-Land*,94.92458563
+Castel San Giovanni,2018,April,Forecast_Mean,38.63339005
+Castel San Giovanni,2018,June,Station,21.11951238
+Castel San Giovanni,2018,June,ERA5-Land*,94.92458563
+Castel San Giovanni,2018,June,Forecast_Mean,74.82209315
+Castel San Giovanni,2018,July,Station,21.11951238
+Castel San Giovanni,2018,July,ERA5-Land*,94.92458563
+Castel San Giovanni,2018,July,Forecast_Mean,75.65173642
+Castel San Giovanni,2018,August,Station,21.11951238
+Castel San Giovanni,2018,August,ERA5-Land*,94.92458563
+Castel San Giovanni,2018,August,Forecast_Mean,90.05539804
+Castel San Giovanni,2019,April,Station,21.90340214
+Castel San Giovanni,2019,April,ERA5-Land*,65.95702794
+Castel San Giovanni,2019,April,Forecast_Mean,38.34793543
+Castel San Giovanni,2019,June,Station,21.90340214
+Castel San Giovanni,2019,June,ERA5-Land*,65.95702794
+Castel San Giovanni,2019,June,Forecast_Mean,42.03288726
+Castel San Giovanni,2019,July,Station,21.90340214
+Castel San Giovanni,2019,July,ERA5-Land*,65.95702794
+Castel San Giovanni,2019,July,Forecast_Mean,50.08001417
+Castel San Giovanni,2019,August,Station,21.90340214
+Castel San Giovanni,2019,August,ERA5-Land*,65.95702794
+Castel San Giovanni,2019,August,Forecast_Mean,49.43892515
+Castel San Giovanni,2020,April,Station,60.77755174
+Castel San Giovanni,2020,April,ERA5-Land*,90.84580993
+Castel San Giovanni,2020,April,Forecast_Mean,40.03055862
+Castel San Giovanni,2020,June,Station,60.77755174
+Castel San Giovanni,2020,June,ERA5-Land*,90.84580993
+Castel San Giovanni,2020,June,Forecast_Mean,43.03830913
+Castel San Giovanni,2020,July,Station,60.77755174
+Castel San Giovanni,2020,July,ERA5-Land*,90.84580993
+Castel San Giovanni,2020,July,Forecast_Mean,53.87803356
+Castel San Giovanni,2020,August,Station,60.77755174
+Castel San Giovanni,2020,August,ERA5-Land*,90.84580993
+Castel San Giovanni,2020,August,Forecast_Mean,84.65384567
+Castel San Giovanni,2021,April,Station,44.82083551
+Castel San Giovanni,2021,April,ERA5-Land*,93.05328805
+Castel San Giovanni,2021,April,Forecast_Mean,32.78619754
+Castel San Giovanni,2021,June,Station,44.82083551
+Castel San Giovanni,2021,June,ERA5-Land*,93.05328805
+Castel San Giovanni,2021,June,Forecast_Mean,29.32220353
+Castel San Giovanni,2021,July,Station,44.82083551
+Castel San Giovanni,2021,July,ERA5-Land*,93.05328805
+Castel San Giovanni,2021,July,Forecast_Mean,22.45388848
+Castel San Giovanni,2021,August,Station,44.82083551
+Castel San Giovanni,2021,August,ERA5-Land*,93.05328805
+Castel San Giovanni,2021,August,Forecast_Mean,80.07599872
+Castel San Giovanni,2022,April,Station,11.64146372
+Castel San Giovanni,2022,April,ERA5-Land*,68.92045756
+Castel San Giovanni,2022,April,Forecast_Mean,28.42950288
+Castel San Giovanni,2022,June,Station,11.64146372
+Castel San Giovanni,2022,June,ERA5-Land*,68.92045756
+Castel San Giovanni,2022,June,Forecast_Mean,28.38678993
+Castel San Giovanni,2022,July,Station,11.64146372
+Castel San Giovanni,2022,July,ERA5-Land*,68.92045756
+Castel San Giovanni,2022,July,Forecast_Mean,35.76358504
+Castel San Giovanni,2022,August,Station,11.64146372
+Castel San Giovanni,2022,August,ERA5-Land*,68.92045756
+Castel San Giovanni,2022,August,Forecast_Mean,67.92345483
+Castel San Giovanni,2023,April,Station,48.47803406
+Castel San Giovanni,2023,April,ERA5-Land*,63.72003989
+Castel San Giovanni,2023,April,Forecast_Mean,41.65781045
+Castel San Giovanni,2023,June,Station,48.47803406
+Castel San Giovanni,2023,June,ERA5-Land*,63.72003989
+Castel San Giovanni,2023,June,Forecast_Mean,80.88066201
+Castel San Giovanni,2023,July,Station,48.47803406
+Castel San Giovanni,2023,July,ERA5-Land*,63.72003989
+Castel San Giovanni,2023,July,Forecast_Mean,76.8328514
+Castel San Giovanni,2023,August,Station,48.47803406
+Castel San Giovanni,2023,August,ERA5-Land*,63.72003989
+Castel San Giovanni,2023,August,Forecast_Mean,59.77476674
+Castel San Giovanni,2024,April,Station,96.96059705
+Castel San Giovanni,2024,April,ERA5-Land*,117.370483
+Castel San Giovanni,2024,April,Forecast_Mean,48.60823749
+Castel San Giovanni,2024,June,Station,96.96059705
+Castel San Giovanni,2024,June,ERA5-Land*,117.370483
+Castel San Giovanni,2024,June,Forecast_Mean,76.00000973
+Castel San Giovanni,2024,July,Station,96.96059705
+Castel San Giovanni,2024,July,ERA5-Land*,117.370483
+Castel San Giovanni,2024,July,Forecast_Mean,96.80951498
+Castel San Giovanni,2024,August,Station,96.96059705
+Castel San Giovanni,2024,August,ERA5-Land*,117.370483
+Castel San Giovanni,2024,August,Forecast_Mean,111.0663805
+Castel San Giovanni,2025,April,Station,34.42978625
+Castel San Giovanni,2025,April,ERA5-Land*,134.3199164
+Castel San Giovanni,2025,April,Forecast_Mean,44.87779184
+Castel San Giovanni,2025,June,Station,34.42978625
+Castel San Giovanni,2025,June,ERA5-Land*,134.3199164
+Castel San Giovanni,2025,June,Forecast_Mean,42.36985159
+Castel San Giovanni,2025,July,Station,34.42978625
+Castel San Giovanni,2025,July,ERA5-Land*,134.3199164
+Castel San Giovanni,2025,July,Forecast_Mean,113.867668
+Castel San Giovanni,2025,August,Station,34.42978625
+Castel San Giovanni,2025,August,ERA5-Land*,134.3199164
+Castel San Giovanni,2025,August,Forecast_Mean,126.0811615
+Caorso,2008,April,Station,136.2676886
+Caorso,2008,April,ERA5-Land*,136.7819874
+Caorso,2008,April,Forecast_Mean,33.14015056
+Caorso,2008,June,Station,136.2676886
+Caorso,2008,June,ERA5-Land*,136.7819874
+Caorso,2008,June,Forecast_Mean,50.70913724
+Caorso,2008,July,Station,136.2676886
+Caorso,2008,July,ERA5-Land*,136.7819874
+Caorso,2008,July,Forecast_Mean,95.10231853
+Caorso,2008,August,Station,136.2676886
+Caorso,2008,August,ERA5-Land*,136.7819874
+Caorso,2008,August,Forecast_Mean,102.2467339
+Caorso,2009,April,Station,88.76559129
+Caorso,2009,April,ERA5-Land*,77.21880813
+Caorso,2009,April,Forecast_Mean,34.51448064
+Caorso,2009,June,Station,88.76559129
+Caorso,2009,June,ERA5-Land*,77.21880813
+Caorso,2009,June,Forecast_Mean,51.14777362
+Caorso,2009,July,Station,88.76559129
+Caorso,2009,July,ERA5-Land*,77.21880813
+Caorso,2009,July,Forecast_Mean,57.35068767
+Caorso,2009,August,Station,88.76559129
+Caorso,2009,August,ERA5-Land*,77.21880813
+Caorso,2009,August,Forecast_Mean,72.1816975
+Caorso,2010,April,Station,35.04251691
+Caorso,2010,April,ERA5-Land*,64.83781325
+Caorso,2010,April,Forecast_Mean,37.70103438
+Caorso,2010,June,Station,35.04251691
+Caorso,2010,June,ERA5-Land*,64.83781325
+Caorso,2010,June,Forecast_Mean,56.89587087
+Caorso,2010,July,Station,35.04251691
+Caorso,2010,July,ERA5-Land*,64.83781325
+Caorso,2010,July,Forecast_Mean,88.9774608
+Caorso,2010,August,Station,35.04251691
+Caorso,2010,August,ERA5-Land*,64.83781325
+Caorso,2010,August,Forecast_Mean,68.94116487
+Caorso,2011,April,Station,62.68123891
+Caorso,2011,April,ERA5-Land*,69.31937012
+Caorso,2011,April,Forecast_Mean,39.84851199
+Caorso,2011,June,Station,62.68123891
+Caorso,2011,June,ERA5-Land*,69.31937012
+Caorso,2011,June,Forecast_Mean,62.81896166
+Caorso,2011,July,Station,62.68123891
+Caorso,2011,July,ERA5-Land*,69.31937012
+Caorso,2011,July,Forecast_Mean,66.75388628
+Caorso,2011,August,Station,62.68123891
+Caorso,2011,August,ERA5-Land*,69.31937012
+Caorso,2011,August,Forecast_Mean,55.67128141
+Caorso,2012,April,Station,25.77809174
+Caorso,2012,April,ERA5-Land*,53.1314166
+Caorso,2012,April,Forecast_Mean,34.40404358
+Caorso,2012,June,Station,25.77809174
+Caorso,2012,June,ERA5-Land*,53.1314166
+Caorso,2012,June,Forecast_Mean,48.88298255
+Caorso,2012,July,Station,25.77809174
+Caorso,2012,July,ERA5-Land*,53.1314166
+Caorso,2012,July,Forecast_Mean,54.01910736
+Caorso,2012,August,Station,25.77809174
+Caorso,2012,August,ERA5-Land*,53.1314166
+Caorso,2012,August,Forecast_Mean,54.59315097
+Caorso,2013,April,Station,33.30591007
+Caorso,2013,April,ERA5-Land*,38.64911514
+Caorso,2013,April,Forecast_Mean,30.16571061
+Caorso,2013,June,Station,33.30591007
+Caorso,2013,June,ERA5-Land*,38.64911514
+Caorso,2013,June,Forecast_Mean,53.59937831
+Caorso,2013,July,Station,33.30591007
+Caorso,2013,July,ERA5-Land*,38.64911514
+Caorso,2013,July,Forecast_Mean,58.76831482
+Caorso,2013,August,Station,33.30591007
+Caorso,2013,August,ERA5-Land*,38.64911514
+Caorso,2013,August,Forecast_Mean,64.97257399
+Caorso,2014,April,Station,70.83948579
+Caorso,2014,April,ERA5-Land*,46.0071474
+Caorso,2014,April,Forecast_Mean,43.32397354
+Caorso,2014,June,Station,70.83948579
+Caorso,2014,June,ERA5-Land*,46.0071474
+Caorso,2014,June,Forecast_Mean,44.5139417
+Caorso,2014,July,Station,70.83948579
+Caorso,2014,July,ERA5-Land*,46.0071474
+Caorso,2014,July,Forecast_Mean,54.78090423
+Caorso,2014,August,Station,70.83948579
+Caorso,2014,August,ERA5-Land*,46.0071474
+Caorso,2014,August,Forecast_Mean,52.91734816
+Caorso,2015,April,Station,100.8409434
+Caorso,2015,April,ERA5-Land*,101.6562531
+Caorso,2015,April,Forecast_Mean,47.58350983
+Caorso,2015,June,Station,100.8409434
+Caorso,2015,June,ERA5-Land*,101.6562531
+Caorso,2015,June,Forecast_Mean,50.1391956
+Caorso,2015,July,Station,100.8409434
+Caorso,2015,July,ERA5-Land*,101.6562531
+Caorso,2015,July,Forecast_Mean,119.5263373
+Caorso,2015,August,Station,90.84094343
+Caorso,2015,August,ERA5-Land*,101.6562531
+Caorso,2015,August,Forecast_Mean,103.0783469
+Caorso,2016,April,Station,125.5718388
+Caorso,2016,April,ERA5-Land*,117.778262
+Caorso,2016,April,Forecast_Mean,33.4677419
+Caorso,2016,June,Station,125.5718388
+Caorso,2016,June,ERA5-Land*,117.778262
+Caorso,2016,June,Forecast_Mean,48.1985893
+Caorso,2016,July,Station,125.5718388
+Caorso,2016,July,ERA5-Land*,117.778262
+Caorso,2016,July,Forecast_Mean,95.13418876
+Caorso,2016,August,Station,125.5718388
+Caorso,2016,August,ERA5-Land*,117.778262
+Caorso,2016,August,Forecast_Mean,96.33074329
+Caorso,2017,April,Station,82.40559271
+Caorso,2017,April,ERA5-Land*,97.27492113
+Caorso,2017,April,Forecast_Mean,30.49627521
+Caorso,2017,June,Station,82.40559271
+Caorso,2017,June,ERA5-Land*,97.27492113
+Caorso,2017,June,Forecast_Mean,30.17009958
+Caorso,2017,July,Station,82.40559271
+Caorso,2017,July,ERA5-Land*,97.27492113
+Caorso,2017,July,Forecast_Mean,47.666555
+Caorso,2017,August,Station,82.40559271
+Caorso,2017,August,ERA5-Land*,97.27492113
+Caorso,2017,August,Forecast_Mean,94.54268005
+Caorso,2018,April,Station,72.85717364
+Caorso,2018,April,ERA5-Land*,119.9246745
+Caorso,2018,April,Forecast_Mean,37.37557744
+Caorso,2018,June,Station,72.85717364
+Caorso,2018,June,ERA5-Land*,119.9246745
+Caorso,2018,June,Forecast_Mean,67.62443617
+Caorso,2018,July,Station,72.85717364
+Caorso,2018,July,ERA5-Land*,119.9246745
+Caorso,2018,July,Forecast_Mean,69.53065741
+Caorso,2018,August,Station,72.85717364
+Caorso,2018,August,ERA5-Land*,119.9246745
+Caorso,2018,August,Forecast_Mean,116.8905621
+Caorso,2019,April,Station,151.3716236
+Caorso,2019,April,ERA5-Land*,151.3965824
+Caorso,2019,April,Forecast_Mean,37.84593544
+Caorso,2019,June,Station,151.3716236
+Caorso,2019,June,ERA5-Land*,151.3965824
+Caorso,2019,June,Forecast_Mean,46.86023471
+Caorso,2019,July,Station,151.3716236
+Caorso,2019,July,ERA5-Land*,151.3965824
+Caorso,2019,July,Forecast_Mean,95.9550543
+Caorso,2019,August,Station,151.3716236
+Caorso,2019,August,ERA5-Land*,151.3965824
+Caorso,2019,August,Forecast_Mean,122.0667709
+Caorso,2020,April,Station,120.2619313
+Caorso,2020,April,ERA5-Land*,135.5289628
+Caorso,2020,April,Forecast_Mean,38.70365869
+Caorso,2020,June,Station,120.2619313
+Caorso,2020,June,ERA5-Land*,135.5289628
+Caorso,2020,June,Forecast_Mean,38.94208953
+Caorso,2020,July,Station,120.2619313
+Caorso,2020,July,ERA5-Land*,135.5289628
+Caorso,2020,July,Forecast_Mean,97.96354866
+Caorso,2020,August,Station,120.2619313
+Caorso,2020,August,ERA5-Land*,135.5289628
+Caorso,2020,August,Forecast_Mean,120.5307884
+Caorso,2021,April,Station,118.2656071
+Caorso,2021,April,ERA5-Land*,107.2448237
+Caorso,2021,April,Forecast_Mean,28.49322835
+Caorso,2021,June,Station,118.2656071
+Caorso,2021,June,ERA5-Land*,107.2448237
+Caorso,2021,June,Forecast_Mean,30.73461328
+Caorso,2021,July,Station,118.2656071
+Caorso,2021,July,ERA5-Land*,107.2448237
+Caorso,2021,July,Forecast_Mean,100.5333506
+Caorso,2021,August,Station,118.2656071
+Caorso,2021,August,ERA5-Land*,107.2448237
+Caorso,2021,August,Forecast_Mean,98.50022897
+Caorso,2022,April,Station,10.33711497
+Caorso,2022,April,ERA5-Land*,20.13441895
+Caorso,2022,April,Forecast_Mean,22.61789086
+Caorso,2022,June,Station,10.33711497
+Caorso,2022,June,ERA5-Land*,20.13441895
+Caorso,2022,June,Forecast_Mean,25.66217962
+Caorso,2022,July,Station,10.33711497
+Caorso,2022,July,ERA5-Land*,20.13441895
+Caorso,2022,July,Forecast_Mean,22.60303672
+Caorso,2022,August,Station,10.33711497
+Caorso,2022,August,ERA5-Land*,20.13441895
+Caorso,2022,August,Forecast_Mean,16.85743478
+Caorso,2023,April,Station,10.35857342
+Caorso,2023,April,ERA5-Land*,16.63026557
+Caorso,2023,April,Forecast_Mean,42.06660513
+Caorso,2023,June,Station,10.35857342
+Caorso,2023,June,ERA5-Land*,16.63026557
+Caorso,2023,June,Forecast_Mean,80.81559038
+Caorso,2023,July,Station,10.35857342
+Caorso,2023,July,ERA5-Land*,16.63026557
+Caorso,2023,July,Forecast_Mean,79.88037129
+Caorso,2023,August,Station,10.35857342
+Caorso,2023,August,ERA5-Land*,16.63026557
+Caorso,2023,August,Forecast_Mean,24.06264172
+Caorso,2024,April,Station,30.19696565
+Caorso,2024,April,ERA5-Land*,47.63273317
+Caorso,2024,April,Forecast_Mean,43.29694987
+Caorso,2024,June,Station,30.19696565
+Caorso,2024,June,ERA5-Land*,47.63273317
+Caorso,2024,June,Forecast_Mean,66.53181508
+Caorso,2024,July,Station,30.19696565
+Caorso,2024,July,ERA5-Land*,47.63273317
+Caorso,2024,July,Forecast_Mean,94.1656814
+Caorso,2024,August,Station,30.19696565
+Caorso,2024,August,ERA5-Land*,47.63273317
+Caorso,2024,August,Forecast_Mean,62.69868016
+Caorso,2025,April,Station,23.39247064
+Caorso,2025,April,ERA5-Land*,56.20308808
+Caorso,2025,April,Forecast_Mean,40.82671076
+Caorso,2025,June,Station,23.39247064
+Caorso,2025,June,ERA5-Land*,56.20308808
+Caorso,2025,June,Forecast_Mean,33.32569181
+Caorso,2025,July,Station,23.39247064
+Caorso,2025,July,ERA5-Land*,56.20308808
+Caorso,2025,July,Forecast_Mean,40.51196519
+Caorso,2025,August,Station,23.39247064
+Caorso,2025,August,ERA5-Land*,56.20308808
+Caorso,2025,August,Forecast_Mean,58.82972651
+Roncopascolo,2008,April,Station,60.73297023
+Roncopascolo,2008,April,ERA5-Land*,91.95532467
+Roncopascolo,2008,April,Forecast_Mean,33.14015056
+Roncopascolo,2008,June,Station,60.73297023
+Roncopascolo,2008,June,ERA5-Land*,91.95532467
+Roncopascolo,2008,June,Forecast_Mean,49.93037524
+Roncopascolo,2008,July,Station,60.73297023
+Roncopascolo,2008,July,ERA5-Land*,91.95532467
+Roncopascolo,2008,July,Forecast_Mean,61.25227092
+Roncopascolo,2008,August,Station,60.73297023
+Roncopascolo,2008,August,ERA5-Land*,91.95532467
+Roncopascolo,2008,August,Forecast_Mean,91.95532467
+Roncopascolo,2009,April,Station,60.73277191
+Roncopascolo,2009,April,ERA5-Land*,171.2363024
+Roncopascolo,2009,April,Forecast_Mean,34.51448064
+Roncopascolo,2009,June,Station,60.73277191
+Roncopascolo,2009,June,ERA5-Land*,171.2363024
+Roncopascolo,2009,June,Forecast_Mean,50.19622992
+Roncopascolo,2009,July,Station,60.73277191
+Roncopascolo,2009,July,ERA5-Land*,171.2363024
+Roncopascolo,2009,July,Forecast_Mean,52.10007843
+Roncopascolo,2009,August,Station,60.73277191
+Roncopascolo,2009,August,ERA5-Land*,171.2363024
+Roncopascolo,2009,August,Forecast_Mean,133.8496668
+Roncopascolo,2010,April,Station,70.70861029
+Roncopascolo,2010,April,ERA5-Land*,77.78472302
+Roncopascolo,2010,April,Forecast_Mean,37.70103438
+Roncopascolo,2010,June,Station,70.70861029
+Roncopascolo,2010,June,ERA5-Land*,77.78472302
+Roncopascolo,2010,June,Forecast_Mean,54.99932929
+Roncopascolo,2010,July,Station,70.70861029
+Roncopascolo,2010,July,ERA5-Land*,77.78472302
+Roncopascolo,2010,July,Forecast_Mean,82.92745898
+Roncopascolo,2010,August,Station,70.70861029
+Roncopascolo,2010,August,ERA5-Land*,77.78472302
+Roncopascolo,2010,August,Forecast_Mean,86.97738852
+Roncopascolo,2011,April,Station,66.74505986
+Roncopascolo,2011,April,ERA5-Land*,70.80976339
+Roncopascolo,2011,April,Forecast_Mean,39.84851199
+Roncopascolo,2011,June,Station,66.74505986
+Roncopascolo,2011,June,ERA5-Land*,70.80976339
+Roncopascolo,2011,June,Forecast_Mean,56.50552236
+Roncopascolo,2011,July,Station,66.74505986
+Roncopascolo,2011,July,ERA5-Land*,70.80976339
+Roncopascolo,2011,July,Forecast_Mean,62.97382423
+Roncopascolo,2011,August,Station,66.74505986
+Roncopascolo,2011,August,ERA5-Land*,70.80976339
+Roncopascolo,2011,August,Forecast_Mean,69.50168436
+Roncopascolo,2012,April,Station,58.26120901
+Roncopascolo,2012,April,ERA5-Land*,63.0393668
+Roncopascolo,2012,April,Forecast_Mean,34.40404358
+Roncopascolo,2012,June,Station,58.26120901
+Roncopascolo,2012,June,ERA5-Land*,63.0393668
+Roncopascolo,2012,June,Forecast_Mean,47.71099261
+Roncopascolo,2012,July,Station,58.26120901
+Roncopascolo,2012,July,ERA5-Land*,63.0393668
+Roncopascolo,2012,July,Forecast_Mean,52.37098406
+Roncopascolo,2012,August,Station,58.26120901
+Roncopascolo,2012,August,ERA5-Land*,63.0393668
+Roncopascolo,2012,August,Forecast_Mean,76.6612145
+Roncopascolo,2013,April,Station,38.57189756
+Roncopascolo,2013,April,ERA5-Land*,89.22538398
+Roncopascolo,2013,April,Forecast_Mean,30.16571061
+Roncopascolo,2013,June,Station,38.57189756
+Roncopascolo,2013,June,ERA5-Land*,89.22538398
+Roncopascolo,2013,June,Forecast_Mean,50.9965815
+Roncopascolo,2013,July,Station,38.57189756
+Roncopascolo,2013,July,ERA5-Land*,89.22538398
+Roncopascolo,2013,July,Forecast_Mean,56.89103232
+Roncopascolo,2013,August,Station,38.57189756
+Roncopascolo,2013,August,ERA5-Land*,89.22538398
+Roncopascolo,2013,August,Forecast_Mean,94.15275763
+Roncopascolo,2014,April,Station,62.75635762
+Roncopascolo,2014,April,ERA5-Land*,44.65678858
+Roncopascolo,2014,April,Forecast_Mean,43.32397354
+Roncopascolo,2014,June,Station,62.75635762
+Roncopascolo,2014,June,ERA5-Land*,44.65678858
+Roncopascolo,2014,June,Forecast_Mean,42.65290699
+Roncopascolo,2014,July,Station,62.75635762
+Roncopascolo,2014,July,ERA5-Land*,44.65678858
+Roncopascolo,2014,July,Forecast_Mean,56.110676
+Roncopascolo,2014,August,Station,62.75635762
+Roncopascolo,2014,August,ERA5-Land*,44.65678858
+Roncopascolo,2014,August,Forecast_Mean,47.88964062
+Roncopascolo,2015,April,Station,153.7282
+Roncopascolo,2015,April,ERA5-Land*,221.3586723
+Roncopascolo,2015,April,Forecast_Mean,47.58350983
+Roncopascolo,2015,June,Station,153.7282
+Roncopascolo,2015,June,ERA5-Land*,221.3586723
+Roncopascolo,2015,June,Forecast_Mean,100.2883186
+Roncopascolo,2015,July,Station,153.7282
+Roncopascolo,2015,July,ERA5-Land*,221.3586723
+Roncopascolo,2015,July,Forecast_Mean,108.1936173
+Roncopascolo,2015,August,Station,153.7282
+Roncopascolo,2015,August,ERA5-Land*,221.3586723
+Roncopascolo,2015,August,Forecast_Mean,204.2683765
+Roncopascolo,2016,April,Station,16.78566299
+Roncopascolo,2016,April,ERA5-Land*,26.64976089
+Roncopascolo,2016,April,Forecast_Mean,33.4677419
+Roncopascolo,2016,June,Station,16.78566299
+Roncopascolo,2016,June,ERA5-Land*,26.64976089
+Roncopascolo,2016,June,Forecast_Mean,46.71647963
+Roncopascolo,2016,July,Station,16.78566299
+Roncopascolo,2016,July,ERA5-Land*,26.64976089
+Roncopascolo,2016,July,Forecast_Mean,64.70147324
+Roncopascolo,2016,August,Station,16.78566299
+Roncopascolo,2016,August,ERA5-Land*,26.64976089
+Roncopascolo,2016,August,Forecast_Mean,54.31843952
+Roncopascolo,2017,April,Station,19.14252207
+Roncopascolo,2017,April,ERA5-Land*,34.70118686
+Roncopascolo,2017,April,Forecast_Mean,30.49627521
+Roncopascolo,2017,June,Station,19.14252207
+Roncopascolo,2017,June,ERA5-Land*,34.70118686
+Roncopascolo,2017,June,Forecast_Mean,30.2330719
+Roncopascolo,2017,July,Station,19.14252207
+Roncopascolo,2017,July,ERA5-Land*,34.70118686
+Roncopascolo,2017,July,Forecast_Mean,42.00795221
+Roncopascolo,2017,August,Station,19.14252207
+Roncopascolo,2017,August,ERA5-Land*,34.70118686
+Roncopascolo,2017,August,Forecast_Mean,69.860959
+Roncopascolo,2018,April,Station,24.74116667
+Roncopascolo,2018,April,ERA5-Land*,24.0892738
+Roncopascolo,2018,April,Forecast_Mean,37.37557744
+Roncopascolo,2018,June,Station,24.74116667
+Roncopascolo,2018,June,ERA5-Land*,24.0892738
+Roncopascolo,2018,June,Forecast_Mean,66.73781191
+Roncopascolo,2018,July,Station,24.74116667
+Roncopascolo,2018,July,ERA5-Land*,24.0892738
+Roncopascolo,2018,July,Forecast_Mean,68.21162271
+Roncopascolo,2018,August,Station,24.74116667
+Roncopascolo,2018,August,ERA5-Land*,24.0892738
+Roncopascolo,2018,August,Forecast_Mean,40.19470152
+Roncopascolo,2019,April,Station,11.4701319
+Roncopascolo,2019,April,ERA5-Land*,64.98861734
+Roncopascolo,2019,April,Forecast_Mean,37.84593544
+Roncopascolo,2019,June,Station,11.4701319
+Roncopascolo,2019,June,ERA5-Land*,64.98861734
+Roncopascolo,2019,June,Forecast_Mean,43.84159002
+Roncopascolo,2019,July,Station,11.4701319
+Roncopascolo,2019,July,ERA5-Land*,64.98861734
+Roncopascolo,2019,July,Forecast_Mean,46.97944835
+Roncopascolo,2019,August,Station,11.4701319
+Roncopascolo,2019,August,ERA5-Land*,64.98861734
+Roncopascolo,2019,August,Forecast_Mean,53.61520012
+Roncopascolo,2020,April,Station,99.96699461
+Roncopascolo,2020,April,ERA5-Land*,113.2650579
+Roncopascolo,2020,April,Forecast_Mean,38.70365869
+Roncopascolo,2020,June,Station,99.96699461
+Roncopascolo,2020,June,ERA5-Land*,113.2650579
+Roncopascolo,2020,June,Forecast_Mean,35.40829409
+Roncopascolo,2020,July,Station,99.96699461
+Roncopascolo,2020,July,ERA5-Land*,113.2650579
+Roncopascolo,2020,July,Forecast_Mean,96.45999366
+Roncopascolo,2020,August,Station,99.96699461
+Roncopascolo,2020,August,ERA5-Land*,113.2650579
+Roncopascolo,2020,August,Forecast_Mean,96.5783231
+Roncopascolo,2021,April,Station,37.56287446
+Roncopascolo,2021,April,ERA5-Land*,83.91137426
+Roncopascolo,2021,April,Forecast_Mean,28.49322835
+Roncopascolo,2021,June,Station,37.56287446
+Roncopascolo,2021,June,ERA5-Land*,83.91137426
+Roncopascolo,2021,June,Forecast_Mean,29.72115818
+Roncopascolo,2021,July,Station,37.56287446
+Roncopascolo,2021,July,ERA5-Land*,83.91137426
+Roncopascolo,2021,July,Forecast_Mean,19.39867211
+Roncopascolo,2021,August,Station,37.56287446
+Roncopascolo,2021,August,ERA5-Land*,83.91137426
+Roncopascolo,2021,August,Forecast_Mean,65.06878831
+Roncopascolo,2022,April,Station,27.83323983
+Roncopascolo,2022,April,ERA5-Land*,149.947988
+Roncopascolo,2022,April,Forecast_Mean,22.61789086
+Roncopascolo,2022,June,Station,127.8332398
+Roncopascolo,2022,June,ERA5-Land*,149.947988
+Roncopascolo,2022,June,Forecast_Mean,25.48027391
+Roncopascolo,2022,July,Station,127.8332398
+Roncopascolo,2022,July,ERA5-Land*,149.947988
+Roncopascolo,2022,July,Forecast_Mean,139.4501958
+Roncopascolo,2022,August,Station,127.8332398
+Roncopascolo,2022,August,ERA5-Land*,149.947988
+Roncopascolo,2022,August,Forecast_Mean,136.3498017
+Roncopascolo,2023,April,Station,119.3310501
+Roncopascolo,2023,April,ERA5-Land*,133.2125406
+Roncopascolo,2023,April,Forecast_Mean,42.06660513
+Roncopascolo,2023,June,Station,119.3310501
+Roncopascolo,2023,June,ERA5-Land*,133.2125406
+Roncopascolo,2023,June,Forecast_Mean,98.36728087
+Roncopascolo,2023,July,Station,119.3310501
+Roncopascolo,2023,July,ERA5-Land*,133.2125406
+Roncopascolo,2023,July,Forecast_Mean,98.22297038
+Roncopascolo,2023,August,Station,119.3310501
+Roncopascolo,2023,August,ERA5-Land*,133.2125406
+Roncopascolo,2023,August,Forecast_Mean,99.72716323
+Roncopascolo,2024,April,Station,161.5579388
+Roncopascolo,2024,April,ERA5-Land*,175.9960333
+Roncopascolo,2024,April,Forecast_Mean,43.29694987
+Roncopascolo,2024,June,Station,161.5579388
+Roncopascolo,2024,June,ERA5-Land*,175.9960333
+Roncopascolo,2024,June,Forecast_Mean,166.2601835
+Roncopascolo,2024,July,Station,161.5579388
+Roncopascolo,2024,July,ERA5-Land*,175.9960333
+Roncopascolo,2024,July,Forecast_Mean,96.62082217
+Roncopascolo,2024,August,Station,161.5579388
+Roncopascolo,2024,August,ERA5-Land*,175.9960333
+Roncopascolo,2024,August,Forecast_Mean,144.8534246
+Roncopascolo,2025,April,Station,22.89560639
+Roncopascolo,2025,April,ERA5-Land*,209.3533234
+Roncopascolo,2025,April,Forecast_Mean,40.82671076
+Roncopascolo,2025,June,Station,22.89560639
+Roncopascolo,2025,June,ERA5-Land*,209.3533234
+Roncopascolo,2025,June,Forecast_Mean,32.4565945
+Roncopascolo,2025,July,Station,22.89560639
+Roncopascolo,2025,July,ERA5-Land*,209.3533234
+Roncopascolo,2025,July,Forecast_Mean,91.20637257
+Roncopascolo,2025,August,Station,22.89560639
+Roncopascolo,2025,August,ERA5-Land*,209.3533234
+Roncopascolo,2025,August,Forecast_Mean,195.1570828
+Luzzara,2008,April,Station,92.41921967
+Luzzara,2008,April,ERA5-Land*,41.13228392
+Luzzara,2008,April,Forecast_Mean,74.14715612
+Luzzara,2008,June,Station,92.41921967
+Luzzara,2008,June,ERA5-Land*,41.13228392
+Luzzara,2008,June,Forecast_Mean,94.47009222
+Luzzara,2008,July,Station,92.41921967
+Luzzara,2008,July,ERA5-Land*,41.13228392
+Luzzara,2008,July,Forecast_Mean,94.56895083
+Luzzara,2008,August,Station,92.41921967
+Luzzara,2008,August,ERA5-Land*,41.13228392
+Luzzara,2008,August,Forecast_Mean,46.90817622
+Luzzara,2009,April,Station,85.64589166
+Luzzara,2009,April,ERA5-Land*,77.32135734
+Luzzara,2009,April,Forecast_Mean,79.24548764
+Luzzara,2009,June,Station,85.64589166
+Luzzara,2009,June,ERA5-Land*,77.32135734
+Luzzara,2009,June,Forecast_Mean,89.67344581
+Luzzara,2009,July,Station,85.64589166
+Luzzara,2009,July,ERA5-Land*,77.32135734
+Luzzara,2009,July,Forecast_Mean,88.12522254
+Luzzara,2009,August,Station,85.64589166
+Luzzara,2009,August,ERA5-Land*,77.32135734
+Luzzara,2009,August,Forecast_Mean,65.7846837
+Luzzara,2010,April,Station,100.5967134
+Luzzara,2010,April,ERA5-Land*,111.1384012
+Luzzara,2010,April,Forecast_Mean,95.91247974
+Luzzara,2010,June,Station,100.5967134
+Luzzara,2010,June,ERA5-Land*,111.1384012
+Luzzara,2010,June,Forecast_Mean,99.43526808
+Luzzara,2010,July,Station,100.5967134
+Luzzara,2010,July,ERA5-Land*,111.1384012
+Luzzara,2010,July,Forecast_Mean,140.3988465
+Luzzara,2010,August,Station,100.5967134
+Luzzara,2010,August,ERA5-Land*,111.1384012
+Luzzara,2010,August,Forecast_Mean,126.5693376
+Luzzara,2011,April,Station,83.11427222
+Luzzara,2011,April,ERA5-Land*,46.40176222
+Luzzara,2011,April,Forecast_Mean,85.4191922
+Luzzara,2011,June,Station,83.11427222
+Luzzara,2011,June,ERA5-Land*,46.40176222
+Luzzara,2011,June,Forecast_Mean,94.44306163
+Luzzara,2011,July,Station,83.11427222
+Luzzara,2011,July,ERA5-Land*,46.40176222
+Luzzara,2011,July,Forecast_Mean,87.73955973
+Luzzara,2011,August,Station,83.11427222
+Luzzara,2011,August,ERA5-Land*,46.40176222
+Luzzara,2011,August,Forecast_Mean,41.45207871
+Luzzara,2012,April,Station,21.70495159
+Luzzara,2012,April,ERA5-Land*,103.2157074
+Luzzara,2012,April,Forecast_Mean,77.98380795
+Luzzara,2012,June,Station,21.70495159
+Luzzara,2012,June,ERA5-Land*,103.2157074
+Luzzara,2012,June,Forecast_Mean,88.52632263
+Luzzara,2012,July,Station,21.70495159
+Luzzara,2012,July,ERA5-Land*,103.2157074
+Luzzara,2012,July,Forecast_Mean,97.82305452
+Luzzara,2012,August,Station,21.70495159
+Luzzara,2012,August,ERA5-Land*,103.2157074
+Luzzara,2012,August,Forecast_Mean,98.87280773
+Luzzara,2013,April,Station,118.0404183
+Luzzara,2013,April,ERA5-Land*,126.7463802
+Luzzara,2013,April,Forecast_Mean,70.62530747
+Luzzara,2013,June,Station,118.0404183
+Luzzara,2013,June,ERA5-Land*,126.7463802
+Luzzara,2013,June,Forecast_Mean,107.0313276
+Luzzara,2013,July,Station,118.0404183
+Luzzara,2013,July,ERA5-Land*,126.7463802
+Luzzara,2013,July,Forecast_Mean,97.73597478
+Luzzara,2013,August,Station,118.0404183
+Luzzara,2013,August,ERA5-Land*,126.7463802
+Luzzara,2013,August,Forecast_Mean,138.0686229
+Luzzara,2014,April,Station,51.0418408
+Luzzara,2014,April,ERA5-Land*,67.92889544
+Luzzara,2014,April,Forecast_Mean,92.3843619
+Luzzara,2014,June,Station,51.0418408
+Luzzara,2014,June,ERA5-Land*,67.92889544
+Luzzara,2014,June,Forecast_Mean,77.40967158
+Luzzara,2014,July,Station,51.0418408
+Luzzara,2014,July,ERA5-Land*,67.92889544
+Luzzara,2014,July,Forecast_Mean,89.96165965
+Luzzara,2014,August,Station,51.0418408
+Luzzara,2014,August,ERA5-Land*,67.92889544
+Luzzara,2014,August,Forecast_Mean,79.31539647
+Luzzara,2015,April,Station,100.0398437
+Luzzara,2015,April,ERA5-Land*,152.9946621
+Luzzara,2015,April,Forecast_Mean,95.71054859
+Luzzara,2015,June,Station,100.0398437
+Luzzara,2015,June,ERA5-Land*,152.9946621
+Luzzara,2015,June,Forecast_Mean,98.22865522
+Luzzara,2015,July,Station,100.0398437
+Luzzara,2015,July,ERA5-Land*,152.9946621
+Luzzara,2015,July,Forecast_Mean,170.5151891
+Luzzara,2015,August,Station,100.0398437
+Luzzara,2015,August,ERA5-Land*,152.9946621
+Luzzara,2015,August,Forecast_Mean,155.9731385
+Luzzara,2016,April,Station,95.04773957
+Luzzara,2016,April,ERA5-Land*,112.8796186
+Luzzara,2016,April,Forecast_Mean,80.4838148
+Luzzara,2016,June,Station,95.04773957
+Luzzara,2016,June,ERA5-Land*,112.8796186
+Luzzara,2016,June,Forecast_Mean,95.04773957
+Luzzara,2016,July,Station,95.04773957
+Luzzara,2016,July,ERA5-Land*,112.8796186
+Luzzara,2016,July,Forecast_Mean,111.5870075
+Luzzara,2016,August,Station,95.04773957
+Luzzara,2016,August,ERA5-Land*,112.8796186
+Luzzara,2016,August,Forecast_Mean,108.7562279
+Luzzara,2017,April,Station,40.34529094
+Luzzara,2017,April,ERA5-Land*,48.54794607
+Luzzara,2017,April,Forecast_Mean,59.76311325
+Luzzara,2017,June,Station,40.34529094
+Luzzara,2017,June,ERA5-Land*,48.54794607
+Luzzara,2017,June,Forecast_Mean,54.85473047
+Luzzara,2017,July,Station,40.34529094
+Luzzara,2017,July,ERA5-Land*,48.54794607
+Luzzara,2017,July,Forecast_Mean,50.40082115
+Luzzara,2017,August,Station,40.34529094
+Luzzara,2017,August,ERA5-Land*,48.54794607
+Luzzara,2017,August,Forecast_Mean,38.73200705
+Luzzara,2018,April,Station,53.94282778
+Luzzara,2018,April,ERA5-Land*,85.16651746
+Luzzara,2018,April,Forecast_Mean,78.71949029
+Luzzara,2018,June,Station,53.94282778
+Luzzara,2018,June,ERA5-Land*,85.16651746
+Luzzara,2018,June,Forecast_Mean,94.4009562
+Luzzara,2018,July,Station,53.94282778
+Luzzara,2018,July,ERA5-Land*,85.16651746
+Luzzara,2018,July,Forecast_Mean,83.76960793
+Luzzara,2018,August,Station,53.94282778
+Luzzara,2018,August,ERA5-Land*,85.16651746
+Luzzara,2018,August,Forecast_Mean,94.82352348
+Luzzara,2019,April,Station,102.0139897
+Luzzara,2019,April,ERA5-Land*,161.5136083
+Luzzara,2019,April,Forecast_Mean,73.18630386
+Luzzara,2019,June,Station,102.0139897
+Luzzara,2019,June,ERA5-Land*,161.5136083
+Luzzara,2019,June,Forecast_Mean,96.64614138
+Luzzara,2019,July,Station,102.0139897
+Luzzara,2019,July,ERA5-Land*,161.5136083
+Luzzara,2019,July,Forecast_Mean,95.82412869
+Luzzara,2019,August,Station,102.0139897
+Luzzara,2019,August,ERA5-Land*,161.5136083
+Luzzara,2019,August,Forecast_Mean,162.5853999
+Luzzara,2020,April,Station,43.80411858
+Luzzara,2020,April,ERA5-Land*,94.08420836
+Luzzara,2020,April,Forecast_Mean,75.83092089
+Luzzara,2020,June,Station,43.80411858
+Luzzara,2020,June,ERA5-Land*,94.08420836
+Luzzara,2020,June,Forecast_Mean,67.43321127
+Luzzara,2020,July,Station,43.80411858
+Luzzara,2020,July,ERA5-Land*,94.08420836
+Luzzara,2020,July,Forecast_Mean,79.092177
+Luzzara,2020,August,Station,43.80411858
+Luzzara,2020,August,ERA5-Land*,94.08420836
+Luzzara,2020,August,Forecast_Mean,94.31151395
+Luzzara,2021,April,Station,43.13986388
+Luzzara,2021,April,ERA5-Land*,65.38068679
+Luzzara,2021,April,Forecast_Mean,56.2234757
+Luzzara,2021,June,Station,43.13986388
+Luzzara,2021,June,ERA5-Land*,65.38068679
+Luzzara,2021,June,Forecast_Mean,58.92722772
+Luzzara,2021,July,Station,43.13986388
+Luzzara,2021,July,ERA5-Land*,65.38068679
+Luzzara,2021,July,Forecast_Mean,45.49398466
+Luzzara,2021,August,Station,43.13986388
+Luzzara,2021,August,ERA5-Land*,65.38068679
+Luzzara,2021,August,Forecast_Mean,57.24000438
+Luzzara,2022,April,Station,19.7952466
+Luzzara,2022,April,ERA5-Land*,57.94979803
+Luzzara,2022,April,Forecast_Mean,40.42844655
+Luzzara,2022,June,Station,19.7952466
+Luzzara,2022,June,ERA5-Land*,57.94979803
+Luzzara,2022,June,Forecast_Mean,49.10399821
+Luzzara,2022,July,Station,19.7952466
+Luzzara,2022,July,ERA5-Land*,57.94979803
+Luzzara,2022,July,Forecast_Mean,41.89647669
+Luzzara,2022,August,Station,19.7952466
+Luzzara,2022,August,ERA5-Land*,57.94979803
+Luzzara,2022,August,Forecast_Mean,54.41896528
+Luzzara,2023,April,Station,0.640550717
+Luzzara,2023,April,ERA5-Land*,66.42657051
+Luzzara,2023,April,Forecast_Mean,84.60869133
+Luzzara,2023,June,Station,0.640550717
+Luzzara,2023,June,ERA5-Land*,66.42657051
+Luzzara,2023,June,Forecast_Mean,123.8665985
+Luzzara,2023,July,Station,0.640550717
+Luzzara,2023,July,ERA5-Land*,66.42657051
+Luzzara,2023,July,Forecast_Mean,109.695965
+Luzzara,2023,August,Station,0.640550717
+Luzzara,2023,August,ERA5-Land*,66.42657051
+Luzzara,2023,August,Forecast_Mean,64.97312343
+Luzzara,2024,April,Station,112.7568991
+Luzzara,2024,April,ERA5-Land*,118.3161987
+Luzzara,2024,April,Forecast_Mean,95.14751054
+Luzzara,2024,June,Station,112.7568991
+Luzzara,2024,June,ERA5-Land*,118.3161987
+Luzzara,2024,June,Forecast_Mean,98.8943278
+Luzzara,2024,July,Station,112.7568991
+Luzzara,2024,July,ERA5-Land*,118.3161987
+Luzzara,2024,July,Forecast_Mean,142.9331899
+Luzzara,2024,August,Station,112.7568991
+Luzzara,2024,August,ERA5-Land*,118.3161987
+Luzzara,2024,August,Forecast_Mean,116.7101997
+Luzzara,2025,April,Station,25.37662555
+Luzzara,2025,April,ERA5-Land*,88.91818805
+Luzzara,2025,April,Forecast_Mean,80.15767611
+Luzzara,2025,June,Station,25.37662555
+Luzzara,2025,June,ERA5-Land*,88.91818805
+Luzzara,2025,June,Forecast_Mean,53.0155858
+Luzzara,2025,July,Station,25.37662555
+Luzzara,2025,July,ERA5-Land*,88.91818805
+Luzzara,2025,July,Forecast_Mean,90.54408571
+Luzzara,2025,August,Station,25.37662555
+Luzzara,2025,August,ERA5-Land*,88.91818805
+Luzzara,2025,August,Forecast_Mean,85.79840455
+Mirandola,2008,April,Station,147.9664832
+Mirandola,2008,April,ERA5-Land*,176.2051665
+Mirandola,2008,April,Forecast_Mean,78.26414952
+Mirandola,2008,June,Station,147.9664832
+Mirandola,2008,June,ERA5-Land*,176.2051665
+Mirandola,2008,June,Forecast_Mean,106.0042793
+Mirandola,2008,July,Station,147.9664832
+Mirandola,2008,July,ERA5-Land*,176.2051665
+Mirandola,2008,July,Forecast_Mean,102.2509627
+Mirandola,2008,August,Station,147.9664832
+Mirandola,2008,August,ERA5-Land*,176.2051665
+Mirandola,2008,August,Forecast_Mean,162.7240253
+Mirandola,2009,April,Station,161.9120179
+Mirandola,2009,April,ERA5-Land*,138.6131762
+Mirandola,2009,April,Forecast_Mean,82.406158
+Mirandola,2009,June,Station,161.9120179
+Mirandola,2009,June,ERA5-Land*,138.6131762
+Mirandola,2009,June,Forecast_Mean,96.52254693
+Mirandola,2009,July,Station,161.9120179
+Mirandola,2009,July,ERA5-Land*,138.6131762
+Mirandola,2009,July,Forecast_Mean,101.7994415
+Mirandola,2009,August,Station,161.9120179
+Mirandola,2009,August,ERA5-Land*,138.6131762
+Mirandola,2009,August,Forecast_Mean,127.700627
+Mirandola,2010,April,Station,138.4360833
+Mirandola,2010,April,ERA5-Land*,166.6458359
+Mirandola,2010,April,Forecast_Mean,92.37404894
+Mirandola,2010,June,Station,138.4360833
+Mirandola,2010,June,ERA5-Land*,166.6458359
+Mirandola,2010,June,Forecast_Mean,105.3140227
+Mirandola,2010,July,Station,138.4360833
+Mirandola,2010,July,ERA5-Land*,166.6458359
+Mirandola,2010,July,Forecast_Mean,138.7734538
+Mirandola,2010,August,Station,138.4360833
+Mirandola,2010,August,ERA5-Land*,166.6458359
+Mirandola,2010,August,Forecast_Mean,172.0494164
+Mirandola,2011,April,Station,106.7281515
+Mirandola,2011,April,ERA5-Land*,155.265466
+Mirandola,2011,April,Forecast_Mean,91.38349308
+Mirandola,2011,June,Station,106.7281515
+Mirandola,2011,June,ERA5-Land*,155.265466
+Mirandola,2011,June,Forecast_Mean,104.7138092
+Mirandola,2011,July,Station,106.7281515
+Mirandola,2011,July,ERA5-Land*,155.265466
+Mirandola,2011,July,Forecast_Mean,106.0114988
+Mirandola,2011,August,Station,106.7281515
+Mirandola,2011,August,ERA5-Land*,155.265466
+Mirandola,2011,August,Forecast_Mean,128.081507
+Mirandola,2012,April,Station,89.93906286
+Mirandola,2012,April,ERA5-Land*,225.9548338
+Mirandola,2012,April,Forecast_Mean,85.02391267
+Mirandola,2012,June,Station,89.93906286
+Mirandola,2012,June,ERA5-Land*,225.9548338
+Mirandola,2012,June,Forecast_Mean,95.68063399
+Mirandola,2012,July,Station,89.93906286
+Mirandola,2012,July,ERA5-Land*,225.9548338
+Mirandola,2012,July,Forecast_Mean,133.783196
+Mirandola,2012,August,Station,89.93906286
+Mirandola,2012,August,ERA5-Land*,225.9548338
+Mirandola,2012,August,Forecast_Mean,226.7769607
+Mirandola,2013,April,Station,101.1087575
+Mirandola,2013,April,ERA5-Land*,141.2105675
+Mirandola,2013,April,Forecast_Mean,75.21526061
+Mirandola,2013,June,Station,101.1087575
+Mirandola,2013,June,ERA5-Land*,141.2105675
+Mirandola,2013,June,Forecast_Mean,114.6119231
+Mirandola,2013,July,Station,101.1087575
+Mirandola,2013,July,ERA5-Land*,141.2105675
+Mirandola,2013,July,Forecast_Mean,103.523043
+Mirandola,2013,August,Station,101.1087575
+Mirandola,2013,August,ERA5-Land*,141.2105675
+Mirandola,2013,August,Forecast_Mean,168.0348558
+Mirandola,2014,April,Station,91.61966541
+Mirandola,2014,April,ERA5-Land*,89.16950266
+Mirandola,2014,April,Forecast_Mean,97.39051957
+Mirandola,2014,June,Station,91.61966541
+Mirandola,2014,June,ERA5-Land*,89.16950266
+Mirandola,2014,June,Forecast_Mean,84.92580374
+Mirandola,2014,July,Station,91.61966541
+Mirandola,2014,July,ERA5-Land*,89.16950266
+Mirandola,2014,July,Forecast_Mean,94.35538711
+Mirandola,2014,August,Station,91.61966541
+Mirandola,2014,August,ERA5-Land*,89.16950266
+Mirandola,2014,August,Forecast_Mean,83.83653089
+Mirandola,2015,April,Station,158.2128865
+Mirandola,2015,April,ERA5-Land*,226.3086557
+Mirandola,2015,April,Forecast_Mean,97.57803534
+Mirandola,2015,June,Station,158.2128865
+Mirandola,2015,June,ERA5-Land*,226.3086557
+Mirandola,2015,June,Forecast_Mean,93.23715979
+Mirandola,2015,July,Station,158.2128865
+Mirandola,2015,July,ERA5-Land*,226.3086557
+Mirandola,2015,July,Forecast_Mean,178.3373928
+Mirandola,2015,August,Station,158.2128865
+Mirandola,2015,August,ERA5-Land*,226.3086557
+Mirandola,2015,August,Forecast_Mean,231.0493979
+Mirandola,2016,April,Station,155.8760315
+Mirandola,2016,April,ERA5-Land*,189.2614345
+Mirandola,2016,April,Forecast_Mean,85.27760594
+Mirandola,2016,June,Station,155.8760315
+Mirandola,2016,June,ERA5-Land*,189.2614345
+Mirandola,2016,June,Forecast_Mean,98.38718155
+Mirandola,2016,July,Station,155.8760315
+Mirandola,2016,July,ERA5-Land*,189.2614345
+Mirandola,2016,July,Forecast_Mean,119.5098429
+Mirandola,2016,August,Station,155.8760315
+Mirandola,2016,August,ERA5-Land*,189.2614345
+Mirandola,2016,August,Forecast_Mean,175.2466049
+Mirandola,2017,April,Station,142.3537945
+Mirandola,2017,April,ERA5-Land*,162.5397652
+Mirandola,2017,April,Forecast_Mean,64.63000899
+Mirandola,2017,June,Station,142.3537945
+Mirandola,2017,June,ERA5-Land*,162.5397652
+Mirandola,2017,June,Forecast_Mean,60.61383563
+Mirandola,2017,July,Station,142.3537945
+Mirandola,2017,July,ERA5-Land*,162.5397652
+Mirandola,2017,July,Forecast_Mean,67.91434903
+Mirandola,2017,August,Station,142.3537945
+Mirandola,2017,August,ERA5-Land*,162.5397652
+Mirandola,2017,August,Forecast_Mean,153.7362456
+Mirandola,2018,April,Station,111.0503976
+Mirandola,2018,April,ERA5-Land*,151.3451103
+Mirandola,2018,April,Forecast_Mean,84.59204548
+Mirandola,2018,June,Station,111.0503976
+Mirandola,2018,June,ERA5-Land*,151.3451103
+Mirandola,2018,June,Forecast_Mean,104.5821344
+Mirandola,2018,July,Station,111.0503976
+Mirandola,2018,July,ERA5-Land*,151.3451103
+Mirandola,2018,July,Forecast_Mean,118.49957
+Mirandola,2018,August,Station,111.0503976
+Mirandola,2018,August,ERA5-Land*,151.3451103
+Mirandola,2018,August,Forecast_Mean,151.7893541
+Mirandola,2019,April,Station,167.5080063
+Mirandola,2019,April,ERA5-Land*,168.9803442
+Mirandola,2019,April,Forecast_Mean,77.87662166
+Mirandola,2019,June,Station,167.5080063
+Mirandola,2019,June,ERA5-Land*,168.9803442
+Mirandola,2019,June,Forecast_Mean,98.91141174
+Mirandola,2019,July,Station,167.5080063
+Mirandola,2019,July,ERA5-Land*,168.9803442
+Mirandola,2019,July,Forecast_Mean,97.07598492
+Mirandola,2019,August,Station,167.5080063
+Mirandola,2019,August,ERA5-Land*,168.9803442
+Mirandola,2019,August,Forecast_Mean,157.8424024
+Mirandola,2020,April,Station,143.3785446
+Mirandola,2020,April,ERA5-Land*,120.5436543
+Mirandola,2020,April,Forecast_Mean,81.72071976
+Mirandola,2020,June,Station,143.3785446
+Mirandola,2020,June,ERA5-Land*,120.5436543
+Mirandola,2020,June,Forecast_Mean,73.04970623
+Mirandola,2020,July,Station,143.3785446
+Mirandola,2020,July,ERA5-Land*,120.5436543
+Mirandola,2020,July,Forecast_Mean,94.30323847
+Mirandola,2020,August,Station,143.3785446
+Mirandola,2020,August,ERA5-Land*,120.5436543
+Mirandola,2020,August,Forecast_Mean,114.9531205
+Mirandola,2021,April,Station,133.0887568
+Mirandola,2021,April,ERA5-Land*,176.8882435
+Mirandola,2021,April,Forecast_Mean,61.12654041
+Mirandola,2021,June,Station,133.0887568
+Mirandola,2021,June,ERA5-Land*,176.8882435
+Mirandola,2021,June,Forecast_Mean,65.59584104
+Mirandola,2021,July,Station,133.0887568
+Mirandola,2021,July,ERA5-Land*,176.8882435
+Mirandola,2021,July,Forecast_Mean,53.37600254
+Mirandola,2021,August,Station,133.0887568
+Mirandola,2021,August,ERA5-Land*,176.8882435
+Mirandola,2021,August,Forecast_Mean,154.4712495
+Mirandola,2022,April,Station,12.8933896
+Mirandola,2022,April,ERA5-Land*,66.16373021
+Mirandola,2022,April,Forecast_Mean,45.9126668
+Mirandola,2022,June,Station,12.8933896
+Mirandola,2022,June,ERA5-Land*,66.16373021
+Mirandola,2022,June,Forecast_Mean,54.79323646
+Mirandola,2022,July,Station,12.8933896
+Mirandola,2022,July,ERA5-Land*,66.16373021
+Mirandola,2022,July,Forecast_Mean,36.64248623
+Mirandola,2022,August,Station,12.8933896
+Mirandola,2022,August,ERA5-Land*,66.16373021
+Mirandola,2022,August,Forecast_Mean,1.011334981
+Mirandola,2023,April,Station,44.29947465
+Mirandola,2023,April,ERA5-Land*,50.41553065
+Mirandola,2023,April,Forecast_Mean,91.09659767
+Mirandola,2023,June,Station,44.29947465
+Mirandola,2023,June,ERA5-Land*,50.41553065
+Mirandola,2023,June,Forecast_Mean,127.8349411
+Mirandola,2023,July,Station,44.29947465
+Mirandola,2023,July,ERA5-Land*,50.41553065
+Mirandola,2023,July,Forecast_Mean,113.7238263
+Mirandola,2023,August,Station,44.29947465
+Mirandola,2023,August,ERA5-Land*,50.41553065
+Mirandola,2023,August,Forecast_Mean,12.83458058
+Mirandola,2024,April,Station,41.15595382
+Mirandola,2024,April,ERA5-Land*,211.5957525
+Mirandola,2024,April,Forecast_Mean,89.83186186
+Mirandola,2024,June,Station,41.15595382
+Mirandola,2024,June,ERA5-Land*,211.5957525
+Mirandola,2024,June,Forecast_Mean,105.6393603
+Mirandola,2024,July,Station,41.15595382
+Mirandola,2024,July,ERA5-Land*,211.5957525
+Mirandola,2024,July,Forecast_Mean,148.1075538
+Mirandola,2024,August,Station,41.15595382
+Mirandola,2024,August,ERA5-Land*,211.5957525
+Mirandola,2024,August,Forecast_Mean,196.6056605
+Mirandola,2025,April,Station,56.09915757
+Mirandola,2025,April,ERA5-Land*,39.48325359
+Mirandola,2025,April,Forecast_Mean,85.5039502
+Mirandola,2025,June,Station,56.09915757
+Mirandola,2025,June,ERA5-Land*,39.48325359
+Mirandola,2025,June,Forecast_Mean,58.63698857
+Mirandola,2025,July,Station,56.09915757
+Mirandola,2025,July,ERA5-Land*,39.48325359
+Mirandola,2025,July,Forecast_Mean,65.36860604
+Mirandola,2025,August,Station,56.09915757
+Mirandola,2025,August,ERA5-Land*,39.48325359
+Mirandola,2025,August,Forecast_Mean,5.450115349
+Castel Maggiore,2008,April,Station,16.45893048
+Castel Maggiore,2008,April,ERA5-Land*,52.31630414
+Castel Maggiore,2008,April,Forecast_Mean,74.14715612
+Castel Maggiore,2008,June,Station,16.45893048
+Castel Maggiore,2008,June,ERA5-Land*,52.31630414
+Castel Maggiore,2008,June,Forecast_Mean,90.17043458
+Castel Maggiore,2008,July,Station,16.45893048
+Castel Maggiore,2008,July,ERA5-Land*,52.31630414
+Castel Maggiore,2008,July,Forecast_Mean,90.26306112
+Castel Maggiore,2008,August,Station,16.45893048
+Castel Maggiore,2008,August,ERA5-Land*,52.31630414
+Castel Maggiore,2008,August,Forecast_Mean,68.49100961
+Castel Maggiore,2009,April,Station,17.2841431
+Castel Maggiore,2009,April,ERA5-Land*,30.11230806
+Castel Maggiore,2009,April,Forecast_Mean,79.24548764
+Castel Maggiore,2009,June,Station,17.2841431
+Castel Maggiore,2009,June,ERA5-Land*,30.11230806
+Castel Maggiore,2009,June,Forecast_Mean,89.54273786
+Castel Maggiore,2009,July,Station,17.2841431
+Castel Maggiore,2009,July,ERA5-Land*,30.11230806
+Castel Maggiore,2009,July,Forecast_Mean,94.73659146
+Castel Maggiore,2009,August,Station,17.2841431
+Castel Maggiore,2009,August,ERA5-Land*,30.11230806
+Castel Maggiore,2009,August,Forecast_Mean,36.37837559
+Castel Maggiore,2010,April,Station,31.95924395
+Castel Maggiore,2010,April,ERA5-Land*,72.60943307
+Castel Maggiore,2010,April,Forecast_Mean,85.91247974
+Castel Maggiore,2010,June,Station,31.95924395
+Castel Maggiore,2010,June,ERA5-Land*,72.60943307
+Castel Maggiore,2010,June,Forecast_Mean,90.47106714
+Castel Maggiore,2010,July,Station,31.95924395
+Castel Maggiore,2010,July,ERA5-Land*,72.60943307
+Castel Maggiore,2010,July,Forecast_Mean,90.22569244
+Castel Maggiore,2010,August,Station,31.95924395
+Castel Maggiore,2010,August,ERA5-Land*,72.60943307
+Castel Maggiore,2010,August,Forecast_Mean,85.48796453
+Castel Maggiore,2011,April,Station,35.70261602
+Castel Maggiore,2011,April,ERA5-Land*,69.48318033
+Castel Maggiore,2011,April,Forecast_Mean,85.4191922
+Castel Maggiore,2011,June,Station,35.70261602
+Castel Maggiore,2011,June,ERA5-Land*,69.48318033
+Castel Maggiore,2011,June,Forecast_Mean,93.67797472
+Castel Maggiore,2011,July,Station,35.70261602
+Castel Maggiore,2011,July,ERA5-Land*,69.48318033
+Castel Maggiore,2011,July,Forecast_Mean,91.95681221
+Castel Maggiore,2011,August,Station,35.70261602
+Castel Maggiore,2011,August,ERA5-Land*,69.48318033
+Castel Maggiore,2011,August,Forecast_Mean,81.64873556
+Castel Maggiore,2012,April,Station,16.74114745
+Castel Maggiore,2012,April,ERA5-Land*,7.658299287
+Castel Maggiore,2012,April,Forecast_Mean,77.98380795
+Castel Maggiore,2012,June,Station,16.74114745
+Castel Maggiore,2012,June,ERA5-Land*,7.658299287
+Castel Maggiore,2012,June,Forecast_Mean,88.98887478
+Castel Maggiore,2012,July,Station,16.74114745
+Castel Maggiore,2012,July,ERA5-Land*,7.658299287
+Castel Maggiore,2012,July,Forecast_Mean,89.77745267
+Castel Maggiore,2012,August,Station,16.74114745
+Castel Maggiore,2012,August,ERA5-Land*,7.658299287
+Castel Maggiore,2012,August,Forecast_Mean,12.68471709
+Castel Maggiore,2013,April,Station,6.868107901
+Castel Maggiore,2013,April,ERA5-Land*,15.57348157
+Castel Maggiore,2013,April,Forecast_Mean,70.62530747
+Castel Maggiore,2013,June,Station,6.868107901
+Castel Maggiore,2013,June,ERA5-Land*,15.57348157
+Castel Maggiore,2013,June,Forecast_Mean,91.13456623
+Castel Maggiore,2013,July,Station,6.868107901
+Castel Maggiore,2013,July,ERA5-Land*,15.57348157
+Castel Maggiore,2013,July,Forecast_Mean,93.64265583
+Castel Maggiore,2013,August,Station,6.868107901
+Castel Maggiore,2013,August,ERA5-Land*,15.57348157
+Castel Maggiore,2013,August,Forecast_Mean,46.5516317
+Castel Maggiore,2014,April,Station,75.32044286
+Castel Maggiore,2014,April,ERA5-Land*,79.10580036
+Castel Maggiore,2014,April,Forecast_Mean,92.3843619
+Castel Maggiore,2014,June,Station,75.32044286
+Castel Maggiore,2014,June,ERA5-Land*,79.10580036
+Castel Maggiore,2014,June,Forecast_Mean,76.07541197
+Castel Maggiore,2014,July,Station,75.32044286
+Castel Maggiore,2014,July,ERA5-Land*,79.10580036
+Castel Maggiore,2014,July,Forecast_Mean,89.53520639
+Castel Maggiore,2014,August,Station,75.32044286
+Castel Maggiore,2014,August,ERA5-Land*,79.10580036
+Castel Maggiore,2014,August,Forecast_Mean,84.82307493
+Castel Maggiore,2015,April,Station,24.51425582
+Castel Maggiore,2015,April,ERA5-Land*,64.22697867
+Castel Maggiore,2015,April,Forecast_Mean,93.71054859
+Castel Maggiore,2015,June,Station,24.51425582
+Castel Maggiore,2015,June,ERA5-Land*,64.22697867
+Castel Maggiore,2015,June,Forecast_Mean,84.42463021
+Castel Maggiore,2015,July,Station,24.51425582
+Castel Maggiore,2015,July,ERA5-Land*,64.22697867
+Castel Maggiore,2015,July,Forecast_Mean,80.7857985
+Castel Maggiore,2015,August,Station,24.51425582
+Castel Maggiore,2015,August,ERA5-Land*,64.22697867
+Castel Maggiore,2015,August,Forecast_Mean,73.99828947
+Castel Maggiore,2016,April,Station,17.71152361
+Castel Maggiore,2016,April,ERA5-Land*,34.69178993
+Castel Maggiore,2016,April,Forecast_Mean,80.4838148
+Castel Maggiore,2016,June,Station,17.71152361
+Castel Maggiore,2016,June,ERA5-Land*,34.69178993
+Castel Maggiore,2016,June,Forecast_Mean,91.00162257
+Castel Maggiore,2016,July,Station,17.71152361
+Castel Maggiore,2016,July,ERA5-Land*,34.69178993
+Castel Maggiore,2016,July,Forecast_Mean,91.55153544
+Castel Maggiore,2016,August,Station,17.71152361
+Castel Maggiore,2016,August,ERA5-Land*,34.69178993
+Castel Maggiore,2016,August,Forecast_Mean,46.69419448
+Castel Maggiore,2017,April,Station,26.89252985
+Castel Maggiore,2017,April,ERA5-Land*,43.80460254
+Castel Maggiore,2017,April,Forecast_Mean,59.76311325
+Castel Maggiore,2017,June,Station,26.89252985
+Castel Maggiore,2017,June,ERA5-Land*,43.80460254
+Castel Maggiore,2017,June,Forecast_Mean,55.21508685
+Castel Maggiore,2017,July,Station,26.89252985
+Castel Maggiore,2017,July,ERA5-Land*,43.80460254
+Castel Maggiore,2017,July,Forecast_Mean,51.75260732
+Castel Maggiore,2017,August,Station,26.89252985
+Castel Maggiore,2017,August,ERA5-Land*,43.80460254
+Castel Maggiore,2017,August,Forecast_Mean,45.77898624
+Castel Maggiore,2018,April,Station,48.41430253
+Castel Maggiore,2018,April,ERA5-Land*,73.5342466
+Castel Maggiore,2018,April,Forecast_Mean,78.71949029
+Castel Maggiore,2018,June,Station,48.41430253
+Castel Maggiore,2018,June,ERA5-Land*,73.5342466
+Castel Maggiore,2018,June,Forecast_Mean,90.49408713
+Castel Maggiore,2018,July,Station,48.41430253
+Castel Maggiore,2018,July,ERA5-Land*,73.5342466
+Castel Maggiore,2018,July,Forecast_Mean,92.22510596
+Castel Maggiore,2018,August,Station,48.41430253
+Castel Maggiore,2018,August,ERA5-Land*,73.5342466
+Castel Maggiore,2018,August,Forecast_Mean,79.27058371
+Castel Maggiore,2019,April,Station,101.2784974
+Castel Maggiore,2019,April,ERA5-Land*,100.3990171
+Castel Maggiore,2019,April,Forecast_Mean,73.18630386
+Castel Maggiore,2019,June,Station,101.2784974
+Castel Maggiore,2019,June,ERA5-Land*,100.3990171
+Castel Maggiore,2019,June,Forecast_Mean,95.30171535
+Castel Maggiore,2019,July,Station,101.2784974
+Castel Maggiore,2019,July,ERA5-Land*,100.3990171
+Castel Maggiore,2019,July,Forecast_Mean,95.82412869
+Castel Maggiore,2019,August,Station,101.2784974
+Castel Maggiore,2019,August,ERA5-Land*,100.3990171
+Castel Maggiore,2019,August,Forecast_Mean,95.56285884
+Castel Maggiore,2020,April,Station,24.09269583
+Castel Maggiore,2020,April,ERA5-Land*,76.29136385
+Castel Maggiore,2020,April,Forecast_Mean,75.83092089
+Castel Maggiore,2020,June,Station,24.09269583
+Castel Maggiore,2020,June,ERA5-Land*,76.29136385
+Castel Maggiore,2020,June,Forecast_Mean,64.83546745
+Castel Maggiore,2020,July,Station,24.09269583
+Castel Maggiore,2020,July,ERA5-Land*,76.29136385
+Castel Maggiore,2020,July,Forecast_Mean,82.35236301
+Castel Maggiore,2020,August,Station,24.09269583
+Castel Maggiore,2020,August,ERA5-Land*,76.29136385
+Castel Maggiore,2020,August,Forecast_Mean,71.51387924
+Castel Maggiore,2021,April,Station,40.10886248
+Castel Maggiore,2021,April,ERA5-Land*,76.89370718
+Castel Maggiore,2021,April,Forecast_Mean,56.2234757
+Castel Maggiore,2021,June,Station,40.10886248
+Castel Maggiore,2021,June,ERA5-Land*,76.89370718
+Castel Maggiore,2021,June,Forecast_Mean,60.86363128
+Castel Maggiore,2021,July,Station,40.10886248
+Castel Maggiore,2021,July,ERA5-Land*,76.89370718
+Castel Maggiore,2021,July,Forecast_Mean,50.30314492
+Castel Maggiore,2021,August,Station,40.10886248
+Castel Maggiore,2021,August,ERA5-Land*,76.89370718
+Castel Maggiore,2021,August,Forecast_Mean,81.98152419
+Castel Maggiore,2022,April,Station,0.940978578
+Castel Maggiore,2022,April,ERA5-Land*,38.30417049
+Castel Maggiore,2022,April,Forecast_Mean,40.42844655
+Castel Maggiore,2022,June,Station,0.940978578
+Castel Maggiore,2022,June,ERA5-Land*,38.30417049
+Castel Maggiore,2022,June,Forecast_Mean,49.78391624
+Castel Maggiore,2022,July,Station,0.940978578
+Castel Maggiore,2022,July,ERA5-Land*,38.30417049
+Castel Maggiore,2022,July,Forecast_Mean,59.60769562
+Castel Maggiore,2022,August,Station,0.940978578
+Castel Maggiore,2022,August,ERA5-Land*,38.30417049
+Castel Maggiore,2022,August,Forecast_Mean,35.51618684
+Castel Maggiore,2023,April,Station,0.871304286
+Castel Maggiore,2023,April,ERA5-Land*,44.57629748
+Castel Maggiore,2023,April,Forecast_Mean,84.60869133
+Castel Maggiore,2023,June,Station,0.871304286
+Castel Maggiore,2023,June,ERA5-Land*,44.57629748
+Castel Maggiore,2023,June,Forecast_Mean,23.10736047
+Castel Maggiore,2023,July,Station,0.871304286
+Castel Maggiore,2023,July,ERA5-Land*,44.57629748
+Castel Maggiore,2023,July,Forecast_Mean,14.6508872
+Castel Maggiore,2023,August,Station,0.871304286
+Castel Maggiore,2023,August,ERA5-Land*,44.57629748
+Castel Maggiore,2023,August,Forecast_Mean,57.27447872
+Castel Maggiore,2024,April,Station,25.69662745
+Castel Maggiore,2024,April,ERA5-Land*,84.74585184
+Castel Maggiore,2024,April,Forecast_Mean,83.14751054
+Castel Maggiore,2024,June,Station,25.69662745
+Castel Maggiore,2024,June,ERA5-Land*,84.74585184
+Castel Maggiore,2024,June,Forecast_Mean,88.92401713
+Castel Maggiore,2024,July,Station,25.69662745
+Castel Maggiore,2024,July,ERA5-Land*,84.74585184
+Castel Maggiore,2024,July,Forecast_Mean,43.45607785
+Castel Maggiore,2024,August,Station,25.69662745
+Castel Maggiore,2024,August,ERA5-Land*,84.74585184
+Castel Maggiore,2024,August,Forecast_Mean,94.74534969
+Castel Maggiore,2025,April,Station,1.742759126
+Castel Maggiore,2025,April,ERA5-Land*,52.79820531
+Castel Maggiore,2025,April,Forecast_Mean,80.15767611
+Castel Maggiore,2025,June,Station,1.742759126
+Castel Maggiore,2025,June,ERA5-Land*,52.79820531
+Castel Maggiore,2025,June,Forecast_Mean,52.24116557
+Castel Maggiore,2025,July,Station,1.742759126
+Castel Maggiore,2025,July,ERA5-Land*,52.79820531
+Castel Maggiore,2025,July,Forecast_Mean,71.42261282
+Castel Maggiore,2025,August,Station,1.742759126
+Castel Maggiore,2025,August,ERA5-Land*,52.79820531
+Castel Maggiore,2025,August,Forecast_Mean,51.4655588
+Guarda Ferrarese,2008,April,Station,153.5374127
+Guarda Ferrarese,2008,April,ERA5-Land*,143.0451041
+Guarda Ferrarese,2008,April,Forecast_Mean,70.94393145
+Guarda Ferrarese,2008,June,Station,153.5374127
+Guarda Ferrarese,2008,June,ERA5-Land*,143.0451041
+Guarda Ferrarese,2008,June,Forecast_Mean,104.0662434
+Guarda Ferrarese,2008,July,Station,153.5374127
+Guarda Ferrarese,2008,July,ERA5-Land*,143.0451041
+Guarda Ferrarese,2008,July,Forecast_Mean,96.21889963
+Guarda Ferrarese,2008,August,Station,153.5374127
+Guarda Ferrarese,2008,August,ERA5-Land*,143.0451041
+Guarda Ferrarese,2008,August,Forecast_Mean,125.3954016
+Guarda Ferrarese,2009,April,Station,155.562943
+Guarda Ferrarese,2009,April,ERA5-Land*,100.2785314
+Guarda Ferrarese,2009,April,Forecast_Mean,74.4396534
+Guarda Ferrarese,2009,June,Station,155.562943
+Guarda Ferrarese,2009,June,ERA5-Land*,100.2785314
+Guarda Ferrarese,2009,June,Forecast_Mean,95.40022225
+Guarda Ferrarese,2009,July,Station,155.562943
+Guarda Ferrarese,2009,July,ERA5-Land*,100.2785314
+Guarda Ferrarese,2009,July,Forecast_Mean,95.29443195
+Guarda Ferrarese,2009,August,Station,155.562943
+Guarda Ferrarese,2009,August,ERA5-Land*,100.2785314
+Guarda Ferrarese,2009,August,Forecast_Mean,95.24787952
+Guarda Ferrarese,2010,April,Station,141.3010949
+Guarda Ferrarese,2010,April,ERA5-Land*,153.412268
+Guarda Ferrarese,2010,April,Forecast_Mean,79.18047027
+Guarda Ferrarese,2010,June,Station,141.3010949
+Guarda Ferrarese,2010,June,ERA5-Land*,153.412268
+Guarda Ferrarese,2010,June,Forecast_Mean,95.39901616
+Guarda Ferrarese,2010,July,Station,141.3010949
+Guarda Ferrarese,2010,July,ERA5-Land*,153.412268
+Guarda Ferrarese,2010,July,Forecast_Mean,102.1758468
+Guarda Ferrarese,2010,August,Station,141.3010949
+Guarda Ferrarese,2010,August,ERA5-Land*,153.412268
+Guarda Ferrarese,2010,August,Forecast_Mean,162.7217467
+Guarda Ferrarese,2011,April,Station,144.1467966
+Guarda Ferrarese,2011,April,ERA5-Land*,154.5643027
+Guarda Ferrarese,2011,April,Forecast_Mean,79.85040143
+Guarda Ferrarese,2011,June,Station,144.1467966
+Guarda Ferrarese,2011,June,ERA5-Land*,154.5643027
+Guarda Ferrarese,2011,June,Forecast_Mean,95.5791275
+Guarda Ferrarese,2011,July,Station,144.1467966
+Guarda Ferrarese,2011,July,ERA5-Land*,154.5643027
+Guarda Ferrarese,2011,July,Forecast_Mean,95.4860874
+Guarda Ferrarese,2011,August,Station,144.1467966
+Guarda Ferrarese,2011,August,ERA5-Land*,154.5643027
+Guarda Ferrarese,2011,August,Forecast_Mean,128.3921323
+Guarda Ferrarese,2012,April,Station,158.6798429
+Guarda Ferrarese,2012,April,ERA5-Land*,132.9389693
+Guarda Ferrarese,2012,April,Forecast_Mean,67.83387907
+Guarda Ferrarese,2012,June,Station,158.6798429
+Guarda Ferrarese,2012,June,ERA5-Land*,132.9389693
+Guarda Ferrarese,2012,June,Forecast_Mean,96.47457564
+Guarda Ferrarese,2012,July,Station,158.6798429
+Guarda Ferrarese,2012,July,ERA5-Land*,132.9389693
+Guarda Ferrarese,2012,July,Forecast_Mean,119.4129083
+Guarda Ferrarese,2012,August,Station,158.6798429
+Guarda Ferrarese,2012,August,ERA5-Land*,132.9389693
+Guarda Ferrarese,2012,August,Forecast_Mean,125.7677146
+Guarda Ferrarese,2013,April,Station,147.6708245
+Guarda Ferrarese,2013,April,ERA5-Land*,184.6060032
+Guarda Ferrarese,2013,April,Forecast_Mean,63.49223902
+Guarda Ferrarese,2013,June,Station,147.6708245
+Guarda Ferrarese,2013,June,ERA5-Land*,184.6060032
+Guarda Ferrarese,2013,June,Forecast_Mean,96.1952975
+Guarda Ferrarese,2013,July,Station,147.6708245
+Guarda Ferrarese,2013,July,ERA5-Land*,184.6060032
+Guarda Ferrarese,2013,July,Forecast_Mean,100.4291489
+Guarda Ferrarese,2013,August,Station,147.6708245
+Guarda Ferrarese,2013,August,ERA5-Land*,184.6060032
+Guarda Ferrarese,2013,August,Forecast_Mean,179.44407
+Guarda Ferrarese,2014,April,Station,74.53718848
+Guarda Ferrarese,2014,April,ERA5-Land*,84.95273777
+Guarda Ferrarese,2014,April,Forecast_Mean,74.33993637
+Guarda Ferrarese,2014,June,Station,74.53718848
+Guarda Ferrarese,2014,June,ERA5-Land*,84.95273777
+Guarda Ferrarese,2014,June,Forecast_Mean,72.97765572
+Guarda Ferrarese,2014,July,Station,74.53718848
+Guarda Ferrarese,2014,July,ERA5-Land*,84.95273777
+Guarda Ferrarese,2014,July,Forecast_Mean,72.03484293
+Guarda Ferrarese,2014,August,Station,74.53718848
+Guarda Ferrarese,2014,August,ERA5-Land*,84.95273777
+Guarda Ferrarese,2014,August,Forecast_Mean,84.41369436
+Guarda Ferrarese,2015,April,Station,236.4832028
+Guarda Ferrarese,2015,April,ERA5-Land*,218.2000354
+Guarda Ferrarese,2015,April,Forecast_Mean,101.1215424
+Guarda Ferrarese,2015,June,Station,236.4832028
+Guarda Ferrarese,2015,June,ERA5-Land*,218.2000354
+Guarda Ferrarese,2015,June,Forecast_Mean,104.1127868
+Guarda Ferrarese,2015,July,Station,236.4832028
+Guarda Ferrarese,2015,July,ERA5-Land*,218.2000354
+Guarda Ferrarese,2015,July,Forecast_Mean,120.3389362
+Guarda Ferrarese,2015,August,Station,236.4832028
+Guarda Ferrarese,2015,August,ERA5-Land*,218.2000354
+Guarda Ferrarese,2015,August,Forecast_Mean,222.5097072
+Guarda Ferrarese,2016,April,Station,156.1111613
+Guarda Ferrarese,2016,April,ERA5-Land*,197.370243
+Guarda Ferrarese,2016,April,Forecast_Mean,96.78783797
+Guarda Ferrarese,2016,June,Station,156.1111613
+Guarda Ferrarese,2016,June,ERA5-Land*,197.370243
+Guarda Ferrarese,2016,June,Forecast_Mean,98.90964894
+Guarda Ferrarese,2016,July,Station,156.1111613
+Guarda Ferrarese,2016,July,ERA5-Land*,197.370243
+Guarda Ferrarese,2016,July,Forecast_Mean,102.3284587
+Guarda Ferrarese,2016,August,Station,156.1111613
+Guarda Ferrarese,2016,August,ERA5-Land*,197.370243
+Guarda Ferrarese,2016,August,Forecast_Mean,192.4383485
+Guarda Ferrarese,2017,April,Station,176.8255275
+Guarda Ferrarese,2017,April,ERA5-Land*,140.5911042
+Guarda Ferrarese,2017,April,Forecast_Mean,50.87731346
+Guarda Ferrarese,2017,June,Station,176.8255275
+Guarda Ferrarese,2017,June,ERA5-Land*,140.5911042
+Guarda Ferrarese,2017,June,Forecast_Mean,106.3487459
+Guarda Ferrarese,2017,July,Station,176.8255275
+Guarda Ferrarese,2017,July,ERA5-Land*,140.5911042
+Guarda Ferrarese,2017,July,Forecast_Mean,116.7319122
+Guarda Ferrarese,2017,August,Station,176.8255275
+Guarda Ferrarese,2017,August,ERA5-Land*,140.5911042
+Guarda Ferrarese,2017,August,Forecast_Mean,131.9631437
+Guarda Ferrarese,2018,April,Station,136.7814335
+Guarda Ferrarese,2018,April,ERA5-Land*,135.14295
+Guarda Ferrarese,2018,April,Forecast_Mean,72.69957421
+Guarda Ferrarese,2018,June,Station,136.7814335
+Guarda Ferrarese,2018,June,ERA5-Land*,135.14295
+Guarda Ferrarese,2018,June,Forecast_Mean,101.3664528
+Guarda Ferrarese,2018,July,Station,136.7814335
+Guarda Ferrarese,2018,July,ERA5-Land*,135.14295
+Guarda Ferrarese,2018,July,Forecast_Mean,123.3346259
+Guarda Ferrarese,2018,August,Station,136.7814335
+Guarda Ferrarese,2018,August,ERA5-Land*,135.14295
+Guarda Ferrarese,2018,August,Forecast_Mean,136.2627462
+Guarda Ferrarese,2019,April,Station,130.3519527
+Guarda Ferrarese,2019,April,ERA5-Land*,150.8562114
+Guarda Ferrarese,2019,April,Forecast_Mean,66.73414529
+Guarda Ferrarese,2019,June,Station,130.3519527
+Guarda Ferrarese,2019,June,ERA5-Land*,150.8562114
+Guarda Ferrarese,2019,June,Forecast_Mean,102.5532903
+Guarda Ferrarese,2019,July,Station,130.3519527
+Guarda Ferrarese,2019,July,ERA5-Land*,150.8562114
+Guarda Ferrarese,2019,July,Forecast_Mean,118.9636827
+Guarda Ferrarese,2019,August,Station,130.3519527
+Guarda Ferrarese,2019,August,ERA5-Land*,150.8562114
+Guarda Ferrarese,2019,August,Forecast_Mean,139.3086428
+Guarda Ferrarese,2020,April,Station,135.9523081
+Guarda Ferrarese,2020,April,ERA5-Land*,134.9870698
+Guarda Ferrarese,2020,April,Forecast_Mean,67.14280347
+Guarda Ferrarese,2020,June,Station,135.9523081
+Guarda Ferrarese,2020,June,ERA5-Land*,134.9870698
+Guarda Ferrarese,2020,June,Forecast_Mean,119.2737411
+Guarda Ferrarese,2020,July,Station,135.9523081
+Guarda Ferrarese,2020,July,ERA5-Land*,134.9870698
+Guarda Ferrarese,2020,July,Forecast_Mean,121.5797217
+Guarda Ferrarese,2020,August,Station,135.9523081
+Guarda Ferrarese,2020,August,ERA5-Land*,134.9870698
+Guarda Ferrarese,2020,August,Forecast_Mean,125.2508453
+Guarda Ferrarese,2021,April,Station,144.9693393
+Guarda Ferrarese,2021,April,ERA5-Land*,178.4382274
+Guarda Ferrarese,2021,April,Forecast_Mean,50.71858351
+Guarda Ferrarese,2021,June,Station,144.9693393
+Guarda Ferrarese,2021,June,ERA5-Land*,178.4382274
+Guarda Ferrarese,2021,June,Forecast_Mean,120.3083003
+Guarda Ferrarese,2021,July,Station,144.9693393
+Guarda Ferrarese,2021,July,ERA5-Land*,178.4382274
+Guarda Ferrarese,2021,July,Forecast_Mean,140.3442834
+Guarda Ferrarese,2021,August,Station,144.9693393
+Guarda Ferrarese,2021,August,ERA5-Land*,178.4382274
+Guarda Ferrarese,2021,August,Forecast_Mean,160.3670224
+Guarda Ferrarese,2022,April,Station,43.70635924
+Guarda Ferrarese,2022,April,ERA5-Land*,121.2542309
+Guarda Ferrarese,2022,April,Forecast_Mean,43.27772464
+Guarda Ferrarese,2022,June,Station,43.70635924
+Guarda Ferrarese,2022,June,ERA5-Land*,121.2542309
+Guarda Ferrarese,2022,June,Forecast_Mean,48.86780139
+Guarda Ferrarese,2022,July,Station,43.70635924
+Guarda Ferrarese,2022,July,ERA5-Land*,121.2542309
+Guarda Ferrarese,2022,July,Forecast_Mean,64.26027006
+Guarda Ferrarese,2022,August,Station,43.70635924
+Guarda Ferrarese,2022,August,ERA5-Land*,121.2542309
+Guarda Ferrarese,2022,August,Forecast_Mean,120.2044384
+Guarda Ferrarese,2023,April,Station,94.57981737
+Guarda Ferrarese,2023,April,ERA5-Land*,82.00173829
+Guarda Ferrarese,2023,April,Forecast_Mean,73.28555484
+Guarda Ferrarese,2023,June,Station,94.57981737
+Guarda Ferrarese,2023,June,ERA5-Land*,82.00173829
+Guarda Ferrarese,2023,June,Forecast_Mean,94.73433213
+Guarda Ferrarese,2023,July,Station,94.57981737
+Guarda Ferrarese,2023,July,ERA5-Land*,82.00173829
+Guarda Ferrarese,2023,July,Forecast_Mean,94.20940779
+Guarda Ferrarese,2023,August,Station,94.57981737
+Guarda Ferrarese,2023,August,ERA5-Land*,82.00173829
+Guarda Ferrarese,2023,August,Forecast_Mean,72.20214958
+Guarda Ferrarese,2024,April,Station,95.71668648
+Guarda Ferrarese,2024,April,ERA5-Land*,203.0512943
+Guarda Ferrarese,2024,April,Forecast_Mean,97.81368988
+Guarda Ferrarese,2024,June,Station,84.71668648
+Guarda Ferrarese,2024,June,ERA5-Land*,203.0512943
+Guarda Ferrarese,2024,June,Forecast_Mean,96.46380969
+Guarda Ferrarese,2024,July,Station,84.71668648
+Guarda Ferrarese,2024,July,ERA5-Land*,203.0512943
+Guarda Ferrarese,2024,July,Forecast_Mean,123.1312147
+Guarda Ferrarese,2024,August,Station,84.71668648
+Guarda Ferrarese,2024,August,ERA5-Land*,203.0512943
+Guarda Ferrarese,2024,August,Forecast_Mean,192.9563596
+Guarda Ferrarese,2025,April,Station,46.08889433
+Guarda Ferrarese,2025,April,ERA5-Land*,94.8148016
+Guarda Ferrarese,2025,April,Forecast_Mean,76.00122624
+Guarda Ferrarese,2025,June,Station,46.08889433
+Guarda Ferrarese,2025,June,ERA5-Land*,94.8148016
+Guarda Ferrarese,2025,June,Forecast_Mean,58.46138796
+Guarda Ferrarese,2025,July,Station,46.08889433
+Guarda Ferrarese,2025,July,ERA5-Land*,94.8148016
+Guarda Ferrarese,2025,July,Forecast_Mean,62.72366785
+Guarda Ferrarese,2025,August,Station,46.08889433
+Guarda Ferrarese,2025,August,ERA5-Land*,94.8148016
+Guarda Ferrarese,2025,August,Forecast_Mean,90.90846152
+Ostellato,2008,April,Station,154.5562263
+Ostellato,2008,April,ERA5-Land*,186.8618819
+Ostellato,2008,April,Forecast_Mean,70.94393145
+Ostellato,2008,June,Station,154.5562263
+Ostellato,2008,June,ERA5-Land*,186.8618819
+Ostellato,2008,June,Forecast_Mean,95.24984935
+Ostellato,2008,July,Station,154.5562263
+Ostellato,2008,July,ERA5-Land*,186.8618819
+Ostellato,2008,July,Forecast_Mean,100.6007204
+Ostellato,2008,August,Station,154.5562263
+Ostellato,2008,August,ERA5-Land*,186.8618819
+Ostellato,2008,August,Forecast_Mean,165.2140575
+Ostellato,2009,April,Station,135.0334616
+Ostellato,2009,April,ERA5-Land*,161.6969238
+Ostellato,2009,April,Forecast_Mean,74.4396534
+Ostellato,2009,June,Station,135.0334616
+Ostellato,2009,June,ERA5-Land*,161.6969238
+Ostellato,2009,June,Forecast_Mean,95.89691242
+Ostellato,2009,July,Station,135.0334616
+Ostellato,2009,July,ERA5-Land*,161.6969238
+Ostellato,2009,July,Forecast_Mean,101.4219074
+Ostellato,2009,August,Station,135.0334616
+Ostellato,2009,August,ERA5-Land*,161.6969238
+Ostellato,2009,August,Forecast_Mean,145.3607183
+Ostellato,2010,April,Station,118.3065795
+Ostellato,2010,April,ERA5-Land*,148.4654696
+Ostellato,2010,April,Forecast_Mean,79.18047027
+Ostellato,2010,June,Station,118.3065795
+Ostellato,2010,June,ERA5-Land*,148.4654696
+Ostellato,2010,June,Forecast_Mean,96.96355019
+Ostellato,2010,July,Station,118.3065795
+Ostellato,2010,July,ERA5-Land*,148.4654696
+Ostellato,2010,July,Forecast_Mean,101.6997099
+Ostellato,2010,August,Station,118.3065795
+Ostellato,2010,August,ERA5-Land*,148.4654696
+Ostellato,2010,August,Forecast_Mean,154.4357114
+Ostellato,2011,April,Station,118.2649895
+Ostellato,2011,April,ERA5-Land*,110.4295961
+Ostellato,2011,April,Forecast_Mean,79.85040143
+Ostellato,2011,June,Station,118.2649895
+Ostellato,2011,June,ERA5-Land*,110.4295961
+Ostellato,2011,June,Forecast_Mean,97.81062418
+Ostellato,2011,July,Station,118.2649895
+Ostellato,2011,July,ERA5-Land*,110.4295961
+Ostellato,2011,July,Forecast_Mean,102.7192641
+Ostellato,2011,August,Station,118.2649895
+Ostellato,2011,August,ERA5-Land*,110.4295961
+Ostellato,2011,August,Forecast_Mean,106.2438513
+Ostellato,2012,April,Station,88.11576068
+Ostellato,2012,April,ERA5-Land*,246.5244548
+Ostellato,2012,April,Forecast_Mean,67.83387907
+Ostellato,2012,June,Station,88.11576068
+Ostellato,2012,June,ERA5-Land*,246.5244548
+Ostellato,2012,June,Forecast_Mean,86.72047145
+Ostellato,2012,July,Station,88.11576068
+Ostellato,2012,July,ERA5-Land*,246.5244548
+Ostellato,2012,July,Forecast_Mean,145.3795866
+Ostellato,2012,August,Station,88.11576068
+Ostellato,2012,August,ERA5-Land*,246.5244548
+Ostellato,2012,August,Forecast_Mean,245.8392969
+Ostellato,2013,April,Station,139.3419226
+Ostellato,2013,April,ERA5-Land*,183.0022482
+Ostellato,2013,April,Forecast_Mean,63.49223902
+Ostellato,2013,June,Station,139.3419226
+Ostellato,2013,June,ERA5-Land*,183.0022482
+Ostellato,2013,June,Forecast_Mean,95.50457673
+Ostellato,2013,July,Station,139.3419226
+Ostellato,2013,July,ERA5-Land*,183.0022482
+Ostellato,2013,July,Forecast_Mean,101.2919233
+Ostellato,2013,August,Station,139.3419226
+Ostellato,2013,August,ERA5-Land*,183.0022482
+Ostellato,2013,August,Forecast_Mean,176.2906476
+Ostellato,2014,April,Station,78.18677081
+Ostellato,2014,April,ERA5-Land*,84.35066833
+Ostellato,2014,April,Forecast_Mean,74.33993637
+Ostellato,2014,June,Station,78.18677081
+Ostellato,2014,June,ERA5-Land*,84.35066833
+Ostellato,2014,June,Forecast_Mean,72.87666196
+Ostellato,2014,July,Station,78.18677081
+Ostellato,2014,July,ERA5-Land*,84.35066833
+Ostellato,2014,July,Forecast_Mean,72.03484293
+Ostellato,2014,August,Station,78.18677081
+Ostellato,2014,August,ERA5-Land*,84.35066833
+Ostellato,2014,August,Forecast_Mean,79.58695936
+Ostellato,2015,April,Station,175.7040558
+Ostellato,2015,April,ERA5-Land*,173.3198608
+Ostellato,2015,April,Forecast_Mean,101.1215424
+Ostellato,2015,June,Station,175.7040558
+Ostellato,2015,June,ERA5-Land*,173.3198608
+Ostellato,2015,June,Forecast_Mean,104.0388423
+Ostellato,2015,July,Station,175.7040558
+Ostellato,2015,July,ERA5-Land*,173.3198608
+Ostellato,2015,July,Forecast_Mean,115.1274301
+Ostellato,2015,August,Station,175.7040558
+Ostellato,2015,August,ERA5-Land*,173.3198608
+Ostellato,2015,August,Forecast_Mean,172.2100472
+Ostellato,2016,April,Station,146.221905
+Ostellato,2016,April,ERA5-Land*,214.9872022
+Ostellato,2016,April,Forecast_Mean,106.787838
+Ostellato,2016,June,Station,146.221905
+Ostellato,2016,June,ERA5-Land*,214.9872022
+Ostellato,2016,June,Forecast_Mean,109.3949607
+Ostellato,2016,July,Station,146.221905
+Ostellato,2016,July,ERA5-Land*,214.9872022
+Ostellato,2016,July,Forecast_Mean,112.1635107
+Ostellato,2016,August,Station,146.221905
+Ostellato,2016,August,ERA5-Land*,214.9872022
+Ostellato,2016,August,Forecast_Mean,208.6509708
+Ostellato,2017,April,Station,150.0817465
+Ostellato,2017,April,ERA5-Land*,183.1269664
+Ostellato,2017,April,Forecast_Mean,50.87731346
+Ostellato,2017,June,Station,150.0817465
+Ostellato,2017,June,ERA5-Land*,183.1269664
+Ostellato,2017,June,Forecast_Mean,106.6065103
+Ostellato,2017,July,Station,150.0817465
+Ostellato,2017,July,ERA5-Land*,183.1269664
+Ostellato,2017,July,Forecast_Mean,104.2443963
+Ostellato,2017,August,Station,150.0817465
+Ostellato,2017,August,ERA5-Land*,183.1269664
+Ostellato,2017,August,Forecast_Mean,180.1747949
+Ostellato,2018,April,Station,76.65466059
+Ostellato,2018,April,ERA5-Land*,118.0870862
+Ostellato,2018,April,Forecast_Mean,72.69957421
+Ostellato,2018,June,Station,76.65466059
+Ostellato,2018,June,ERA5-Land*,118.0870862
+Ostellato,2018,June,Forecast_Mean,81.3664528
+Ostellato,2018,July,Station,76.65466059
+Ostellato,2018,July,ERA5-Land*,118.0870862
+Ostellato,2018,July,Forecast_Mean,96.4051123
+Ostellato,2018,August,Station,76.65466059
+Ostellato,2018,August,ERA5-Land*,118.0870862
+Ostellato,2018,August,Forecast_Mean,118.8365019
+Ostellato,2019,April,Station,114.7125663
+Ostellato,2019,April,ERA5-Land*,103.1823508
+Ostellato,2019,April,Forecast_Mean,66.73414529
+Ostellato,2019,June,Station,114.7125663
+Ostellato,2019,June,ERA5-Land*,103.1823508
+Ostellato,2019,June,Forecast_Mean,96.73332926
+Ostellato,2019,July,Station,114.7125663
+Ostellato,2019,July,ERA5-Land*,103.1823508
+Ostellato,2019,July,Forecast_Mean,102.3584002
+Ostellato,2019,August,Station,114.7125663
+Ostellato,2019,August,ERA5-Land*,103.1823508
+Ostellato,2019,August,Forecast_Mean,105.6159638
+Ostellato,2020,April,Station,140.9370704
+Ostellato,2020,April,ERA5-Land*,115.9073871
+Ostellato,2020,April,Forecast_Mean,67.14280347
+Ostellato,2020,June,Station,140.9370704
+Ostellato,2020,June,ERA5-Land*,115.9073871
+Ostellato,2020,June,Forecast_Mean,99.36781209
+Ostellato,2020,July,Station,140.9370704
+Ostellato,2020,July,ERA5-Land*,115.9073871
+Ostellato,2020,July,Forecast_Mean,100.5239377
+Ostellato,2020,August,Station,140.9370704
+Ostellato,2020,August,ERA5-Land*,115.9073871
+Ostellato,2020,August,Forecast_Mean,110.7695775
+Ostellato,2021,April,Station,142.1904752
+Ostellato,2021,April,ERA5-Land*,203.4524117
+Ostellato,2021,April,Forecast_Mean,50.71858351
+Ostellato,2021,June,Station,142.1904752
+Ostellato,2021,June,ERA5-Land*,203.4524117
+Ostellato,2021,June,Forecast_Mean,100.6038249
+Ostellato,2021,July,Station,142.1904752
+Ostellato,2021,July,ERA5-Land*,203.4524117
+Ostellato,2021,July,Forecast_Mean,108.7748628
+Ostellato,2021,August,Station,142.1904752
+Ostellato,2021,August,ERA5-Land*,203.4524117
+Ostellato,2021,August,Forecast_Mean,189.3983575
+Ostellato,2022,April,Station,95.59440294
+Ostellato,2022,April,ERA5-Land*,179.912096
+Ostellato,2022,April,Forecast_Mean,43.27772464
+Ostellato,2022,June,Station,95.59440294
+Ostellato,2022,June,ERA5-Land*,179.912096
+Ostellato,2022,June,Forecast_Mean,48.99830269
+Ostellato,2022,July,Station,95.59440294
+Ostellato,2022,July,ERA5-Land*,179.912096
+Ostellato,2022,July,Forecast_Mean,117.2615188
+Ostellato,2022,August,Station,95.59440294
+Ostellato,2022,August,ERA5-Land*,179.912096
+Ostellato,2022,August,Forecast_Mean,178.9862979
+Ostellato,2023,April,Station,100.2172109
+Ostellato,2023,April,ERA5-Land*,102.3824844
+Ostellato,2023,April,Forecast_Mean,73.28555484
+Ostellato,2023,June,Station,100.2172109
+Ostellato,2023,June,ERA5-Land*,102.3824844
+Ostellato,2023,June,Forecast_Mean,98.53512771
+Ostellato,2023,July,Station,100.2172109
+Ostellato,2023,July,ERA5-Land*,102.3824844
+Ostellato,2023,July,Forecast_Mean,98.20940779
+Ostellato,2023,August,Station,100.2172109
+Ostellato,2023,August,ERA5-Land*,102.3824844
+Ostellato,2023,August,Forecast_Mean,99.49907654
+Ostellato,2024,April,Station,106.0286817
+Ostellato,2024,April,ERA5-Land*,199.883739
+Ostellato,2024,April,Forecast_Mean,77.81368988
+Ostellato,2024,June,Station,106.0286817
+Ostellato,2024,June,ERA5-Land*,199.883739
+Ostellato,2024,June,Forecast_Mean,97.20096573
+Ostellato,2024,July,Station,106.0286817
+Ostellato,2024,July,ERA5-Land*,199.883739
+Ostellato,2024,July,Forecast_Mean,124.3174653
+Ostellato,2024,August,Station,106.0286817
+Ostellato,2024,August,ERA5-Land*,199.883739
+Ostellato,2024,August,Forecast_Mean,196.0043959
+Ostellato,2025,April,Station,13.87752586
+Ostellato,2025,April,ERA5-Land*,159.70498
+Ostellato,2025,April,Forecast_Mean,76.00122624
+Ostellato,2025,June,Station,13.87752586
+Ostellato,2025,June,ERA5-Land*,159.70498
+Ostellato,2025,June,Forecast_Mean,58.90653644
+Ostellato,2025,July,Station,13.87752586
+Ostellato,2025,July,ERA5-Land*,159.70498
+Ostellato,2025,July,Forecast_Mean,91.15336707
+Ostellato,2025,August,Station,13.87752586
+Ostellato,2025,August,ERA5-Land*,159.70498
+Ostellato,2025,August,Forecast_Mean,157.1584414
+Medicina,2008,April,Station,27.87306603
+Medicina,2008,April,ERA5-Land*,62.56806771
+Medicina,2008,April,Forecast_Mean,18.63592069
+Medicina,2008,June,Station,27.87306603
+Medicina,2008,June,ERA5-Land*,62.56806771
+Medicina,2008,June,Forecast_Mean,30.62486873
+Medicina,2008,July,Station,27.87306603
+Medicina,2008,July,ERA5-Land*,62.56806771
+Medicina,2008,July,Forecast_Mean,40.63065665
+Medicina,2008,August,Station,27.87306603
+Medicina,2008,August,ERA5-Land*,62.56806771
+Medicina,2008,August,Forecast_Mean,33.62701361
+Medicina,2009,April,Station,47.39808969
+Medicina,2009,April,ERA5-Land*,91.66697226
+Medicina,2009,April,Forecast_Mean,16.35887552
+Medicina,2009,June,Station,47.39808969
+Medicina,2009,June,ERA5-Land*,91.66697226
+Medicina,2009,June,Forecast_Mean,38.59599398
+Medicina,2009,July,Station,47.39808969
+Medicina,2009,July,ERA5-Land*,91.66697226
+Medicina,2009,July,Forecast_Mean,59.9190495
+Medicina,2009,August,Station,47.39808969
+Medicina,2009,August,ERA5-Land*,91.66697226
+Medicina,2009,August,Forecast_Mean,79.38918921
+Medicina,2010,April,Station,38.23237931
+Medicina,2010,April,ERA5-Land*,139.5693319
+Medicina,2010,April,Forecast_Mean,17.94226353
+Medicina,2010,June,Station,38.23237931
+Medicina,2010,June,ERA5-Land*,139.5693319
+Medicina,2010,June,Forecast_Mean,38.46260507
+Medicina,2010,July,Station,38.23237931
+Medicina,2010,July,ERA5-Land*,139.5693319
+Medicina,2010,July,Forecast_Mean,64.41370805
+Medicina,2010,August,Station,38.23237931
+Medicina,2010,August,ERA5-Land*,139.5693319
+Medicina,2010,August,Forecast_Mean,133.017492
+Medicina,2011,April,Station,34.37173272
+Medicina,2011,April,ERA5-Land*,83.4809294
+Medicina,2011,April,Forecast_Mean,23.24802822
+Medicina,2011,June,Station,34.37173272
+Medicina,2011,June,ERA5-Land*,83.4809294
+Medicina,2011,June,Forecast_Mean,34.94710024
+Medicina,2011,July,Station,34.37173272
+Medicina,2011,July,ERA5-Land*,83.4809294
+Medicina,2011,July,Forecast_Mean,47.90575933
+Medicina,2011,August,Station,34.37173272
+Medicina,2011,August,ERA5-Land*,83.4809294
+Medicina,2011,August,Forecast_Mean,49.04605413
+Medicina,2012,April,Station,7.353867152
+Medicina,2012,April,ERA5-Land*,203.1344024
+Medicina,2012,April,Forecast_Mean,18.39140613
+Medicina,2012,June,Station,7.353867152
+Medicina,2012,June,ERA5-Land*,203.1344024
+Medicina,2012,June,Forecast_Mean,27.62188796
+Medicina,2012,July,Station,7.353867152
+Medicina,2012,July,ERA5-Land*,203.1344024
+Medicina,2012,July,Forecast_Mean,103.3265691
+Medicina,2012,August,Station,7.353867152
+Medicina,2012,August,ERA5-Land*,203.1344024
+Medicina,2012,August,Forecast_Mean,185.6825055
+Medicina,2013,April,Station,46.28976521
+Medicina,2013,April,ERA5-Land*,147.9850935
+Medicina,2013,April,Forecast_Mean,14.50711263
+Medicina,2013,June,Station,46.28976521
+Medicina,2013,June,ERA5-Land*,147.9850935
+Medicina,2013,June,Forecast_Mean,36.18092155
+Medicina,2013,July,Station,46.28976521
+Medicina,2013,July,ERA5-Land*,147.9850935
+Medicina,2013,July,Forecast_Mean,49.21809461
+Medicina,2013,August,Station,46.28976521
+Medicina,2013,August,ERA5-Land*,147.9850935
+Medicina,2013,August,Forecast_Mean,115.8096946
+Medicina,2014,April,Station,81.9369811
+Medicina,2014,April,ERA5-Land*,80.54510942
+Medicina,2014,April,Forecast_Mean,22.15787057
+Medicina,2014,June,Station,81.9369811
+Medicina,2014,June,ERA5-Land*,80.54510942
+Medicina,2014,June,Forecast_Mean,26.33765098
+Medicina,2014,July,Station,81.9369811
+Medicina,2014,July,ERA5-Land*,80.54510942
+Medicina,2014,July,Forecast_Mean,41.78469141
+Medicina,2014,August,Station,81.9369811
+Medicina,2014,August,ERA5-Land*,80.54510942
+Medicina,2014,August,Forecast_Mean,65.14508557
+Medicina,2015,April,Station,104.1378975
+Medicina,2015,April,ERA5-Land*,106.2831854
+Medicina,2015,April,Forecast_Mean,26.95097563
+Medicina,2015,June,Station,104.1378975
+Medicina,2015,June,ERA5-Land*,106.2831854
+Medicina,2015,June,Forecast_Mean,93.40726606
+Medicina,2015,July,Station,104.1378975
+Medicina,2015,July,ERA5-Land*,106.2831854
+Medicina,2015,July,Forecast_Mean,101.6621056
+Medicina,2015,August,Station,104.1378975
+Medicina,2015,August,ERA5-Land*,106.2831854
+Medicina,2015,August,Forecast_Mean,109.1412434
+Medicina,2016,April,Station,120.709245
+Medicina,2016,April,ERA5-Land*,126.664136
+Medicina,2016,April,Forecast_Mean,17.03246005
+Medicina,2016,June,Station,120.709245
+Medicina,2016,June,ERA5-Land*,126.664136
+Medicina,2016,June,Forecast_Mean,27.84483349
+Medicina,2016,July,Station,120.709245
+Medicina,2016,July,ERA5-Land*,126.664136
+Medicina,2016,July,Forecast_Mean,103.6360994
+Medicina,2016,August,Station,120.709245
+Medicina,2016,August,ERA5-Land*,126.664136
+Medicina,2016,August,Forecast_Mean,102.5532127
+Medicina,2017,April,Station,33.01592156
+Medicina,2017,April,ERA5-Land*,29.39625377
+Medicina,2017,April,Forecast_Mean,16.77703839
+Medicina,2017,June,Station,33.01592156
+Medicina,2017,June,ERA5-Land*,29.39625377
+Medicina,2017,June,Forecast_Mean,20.36648461
+Medicina,2017,July,Station,33.01592156
+Medicina,2017,July,ERA5-Land*,29.39625377
+Medicina,2017,July,Forecast_Mean,24.56914079
+Medicina,2017,August,Station,33.01592156
+Medicina,2017,August,ERA5-Land*,29.39625377
+Medicina,2017,August,Forecast_Mean,37.35793478
+Medicina,2018,April,Station,116.6350235
+Medicina,2018,April,ERA5-Land*,118.6906245
+Medicina,2018,April,Forecast_Mean,20.87717642
+Medicina,2018,June,Station,116.6350235
+Medicina,2018,June,ERA5-Land*,118.6906245
+Medicina,2018,June,Forecast_Mean,42.98532737
+Medicina,2018,July,Station,116.6350235
+Medicina,2018,July,ERA5-Land*,118.6906245
+Medicina,2018,July,Forecast_Mean,109.6719307
+Medicina,2018,August,Station,116.6350235
+Medicina,2018,August,ERA5-Land*,118.6906245
+Medicina,2018,August,Forecast_Mean,111.9935161
+Medicina,2019,April,Station,57.82096568
+Medicina,2019,April,ERA5-Land*,91.20148392
+Medicina,2019,April,Forecast_Mean,19.52018119
+Medicina,2019,June,Station,57.82096568
+Medicina,2019,June,ERA5-Land*,91.20148392
+Medicina,2019,June,Forecast_Mean,29.34670498
+Medicina,2019,July,Station,57.82096568
+Medicina,2019,July,ERA5-Land*,91.20148392
+Medicina,2019,July,Forecast_Mean,37.27936541
+Medicina,2019,August,Station,57.82096568
+Medicina,2019,August,ERA5-Land*,91.20148392
+Medicina,2019,August,Forecast_Mean,88.28695315
+Medicina,2020,April,Station,25.83062117
+Medicina,2020,April,ERA5-Land*,46.69324237
+Medicina,2020,April,Forecast_Mean,18.63609789
+Medicina,2020,June,Station,25.83062117
+Medicina,2020,June,ERA5-Land*,46.69324237
+Medicina,2020,June,Forecast_Mean,17.78457181
+Medicina,2020,July,Station,25.83062117
+Medicina,2020,July,ERA5-Land*,46.69324237
+Medicina,2020,July,Forecast_Mean,43.46144329
+Medicina,2020,August,Station,25.83062117
+Medicina,2020,August,ERA5-Land*,46.69324237
+Medicina,2020,August,Forecast_Mean,30.17369462
+Medicina,2021,April,Station,42.51065052
+Medicina,2021,April,ERA5-Land*,56.31447119
+Medicina,2021,April,Forecast_Mean,14.64076976
+Medicina,2021,June,Station,42.51065052
+Medicina,2021,June,ERA5-Land*,56.31447119
+Medicina,2021,June,Forecast_Mean,22.79634571
+Medicina,2021,July,Station,42.51065052
+Medicina,2021,July,ERA5-Land*,56.31447119
+Medicina,2021,July,Forecast_Mean,28.35539862
+Medicina,2021,August,Station,42.51065052
+Medicina,2021,August,ERA5-Land*,56.31447119
+Medicina,2021,August,Forecast_Mean,33.47815093
+Medicina,2022,April,Station,21.32893114
+Medicina,2022,April,ERA5-Land*,34.14210769
+Medicina,2022,April,Forecast_Mean,12.1923451
+Medicina,2022,June,Station,21.32893114
+Medicina,2022,June,ERA5-Land*,34.14210769
+Medicina,2022,June,Forecast_Mean,17.01021718
+Medicina,2022,July,Station,21.32893114
+Medicina,2022,July,ERA5-Land*,34.14210769
+Medicina,2022,July,Forecast_Mean,36.36550236
+Medicina,2022,August,Station,21.32893114
+Medicina,2022,August,ERA5-Land*,34.14210769
+Medicina,2022,August,Forecast_Mean,33.51270088
+Medicina,2023,April,Station,23.61972477
+Medicina,2023,April,ERA5-Land*,88.73905171
+Medicina,2023,April,Forecast_Mean,23.35678325
+Medicina,2023,June,Station,23.61972477
+Medicina,2023,June,ERA5-Land*,88.73905171
+Medicina,2023,June,Forecast_Mean,58.81466302
+Medicina,2023,July,Station,23.61972477
+Medicina,2023,July,ERA5-Land*,88.73905171
+Medicina,2023,July,Forecast_Mean,60.53071987
+Medicina,2023,August,Station,23.61972477
+Medicina,2023,August,ERA5-Land*,88.73905171
+Medicina,2023,August,Forecast_Mean,74.66744941
+Medicina,2024,April,Station,122.877214
+Medicina,2024,April,ERA5-Land*,199.7568503
+Medicina,2024,April,Forecast_Mean,19.74638059
+Medicina,2024,June,Station,122.877214
+Medicina,2024,June,ERA5-Land*,199.7568503
+Medicina,2024,June,Forecast_Mean,25.71844958
+Medicina,2024,July,Station,122.877214
+Medicina,2024,July,ERA5-Land*,199.7568503
+Medicina,2024,July,Forecast_Mean,148.2607439
+Medicina,2024,August,Station,122.877214
+Medicina,2024,August,ERA5-Land*,199.7568503
+Medicina,2024,August,Forecast_Mean,197.025663
+Medicina,2025,April,Station,36.73478015
+Medicina,2025,April,ERA5-Land*,25.28107058
+Medicina,2025,April,Forecast_Mean,20.22825764
+Medicina,2025,June,Station,36.73478015
+Medicina,2025,June,ERA5-Land*,25.28107058
+Medicina,2025,June,Forecast_Mean,21.18720894
+Medicina,2025,July,Station,36.73478015
+Medicina,2025,July,ERA5-Land*,25.28107058
+Medicina,2025,July,Forecast_Mean,55.76465579
+Medicina,2025,August,Station,36.73478015
+Medicina,2025,August,ERA5-Land*,25.28107058
+Medicina,2025,August,Forecast_Mean,17.47376543
+Forli,2008,April,Station,13.43546649
+Forli,2008,April,ERA5-Land*,28.82451511
+Forli,2008,April,Forecast_Mean,18.63592069
+Forli,2008,June,Station,13.43546649
+Forli,2008,June,ERA5-Land*,28.82451511
+Forli,2008,June,Forecast_Mean,26.67027056
+Forli,2008,July,Station,13.43546649
+Forli,2008,July,ERA5-Land*,28.82451511
+Forli,2008,July,Forecast_Mean,39.2192434
+Forli,2008,August,Station,13.43546649
+Forli,2008,August,ERA5-Land*,28.82451511
+Forli,2008,August,Forecast_Mean,24.39771047
+Forli,2009,April,Station,6.888130034
+Forli,2009,April,ERA5-Land*,61.8259739
+Forli,2009,April,Forecast_Mean,16.35887552
+Forli,2009,June,Station,6.888130034
+Forli,2009,June,ERA5-Land*,61.8259739
+Forli,2009,June,Forecast_Mean,35.1991545
+Forli,2009,July,Station,6.888130034
+Forli,2009,July,ERA5-Land*,61.8259739
+Forli,2009,July,Forecast_Mean,43.64836969
+Forli,2009,August,Station,6.888130034
+Forli,2009,August,ERA5-Land*,61.8259739
+Forli,2009,August,Forecast_Mean,48.56466465
+Forli,2010,April,Station,18.08457449
+Forli,2010,April,ERA5-Land*,78.96271417
+Forli,2010,April,Forecast_Mean,17.94226353
+Forli,2010,June,Station,18.08457449
+Forli,2010,June,ERA5-Land*,78.96271417
+Forli,2010,June,Forecast_Mean,35.24085717
+Forli,2010,July,Station,18.08457449
+Forli,2010,July,ERA5-Land*,78.96271417
+Forli,2010,July,Forecast_Mean,55.9204186
+Forli,2010,August,Station,18.08457449
+Forli,2010,August,ERA5-Land*,78.96271417
+Forli,2010,August,Forecast_Mean,75.51758081
+Forli,2011,April,Station,19.32687748
+Forli,2011,April,ERA5-Land*,34.33242916
+Forli,2011,April,Forecast_Mean,23.24802822
+Forli,2011,June,Station,19.32687748
+Forli,2011,June,ERA5-Land*,34.33242916
+Forli,2011,June,Forecast_Mean,31.41279318
+Forli,2011,July,Station,19.32687748
+Forli,2011,July,ERA5-Land*,34.33242916
+Forli,2011,July,Forecast_Mean,41.90068794
+Forli,2011,August,Station,19.32687748
+Forli,2011,August,ERA5-Land*,34.33242916
+Forli,2011,August,Forecast_Mean,23.33215005
+Forli,2012,April,Station,0
+Forli,2012,April,ERA5-Land*,41.83616526
+Forli,2012,April,Forecast_Mean,18.39140613
+Forli,2012,June,Station,0
+Forli,2012,June,ERA5-Land*,41.83616526
+Forli,2012,June,Forecast_Mean,24.96204798
+Forli,2012,July,Station,0
+Forli,2012,July,ERA5-Land*,41.83616526
+Forli,2012,July,Forecast_Mean,30.61962451
+Forli,2012,August,Station,0
+Forli,2012,August,ERA5-Land*,41.83616526
+Forli,2012,August,Forecast_Mean,19.33061405
+Forli,2013,April,Station,11.97450513
+Forli,2013,April,ERA5-Land*,86.77024695
+Forli,2013,April,Forecast_Mean,14.50711263
+Forli,2013,June,Station,11.97450513
+Forli,2013,June,ERA5-Land*,86.77024695
+Forli,2013,June,Forecast_Mean,34.36784683
+Forli,2013,July,Station,11.97450513
+Forli,2013,July,ERA5-Land*,86.77024695
+Forli,2013,July,Forecast_Mean,46.11831635
+Forli,2013,August,Station,11.97450513
+Forli,2013,August,ERA5-Land*,86.77024695
+Forli,2013,August,Forecast_Mean,99.25335818
+Forli,2014,April,Station,22.92179691
+Forli,2014,April,ERA5-Land*,47.35211206
+Forli,2014,April,Forecast_Mean,22.15787057
+Forli,2014,June,Station,22.92179691
+Forli,2014,June,ERA5-Land*,47.35211206
+Forli,2014,June,Forecast_Mean,25.1748256
+Forli,2014,July,Station,22.92179691
+Forli,2014,July,ERA5-Land*,47.35211206
+Forli,2014,July,Forecast_Mean,40.73210623
+Forli,2014,August,Station,22.92179691
+Forli,2014,August,ERA5-Land*,47.35211206
+Forli,2014,August,Forecast_Mean,36.18108731
+Forli,2015,April,Station,25.13530756
+Forli,2015,April,ERA5-Land*,90.1909938
+Forli,2015,April,Forecast_Mean,26.95097563
+Forli,2015,June,Station,25.13530756
+Forli,2015,June,ERA5-Land*,90.1909938
+Forli,2015,June,Forecast_Mean,29.47787256
+Forli,2015,July,Station,25.13530756
+Forli,2015,July,ERA5-Land*,90.1909938
+Forli,2015,July,Forecast_Mean,72.41216714
+Forli,2015,August,Station,25.13530756
+Forli,2015,August,ERA5-Land*,90.1909938
+Forli,2015,August,Forecast_Mean,104.449922
+Forli,2016,April,Station,52.19941849
+Forli,2016,April,ERA5-Land*,94.50013675
+Forli,2016,April,Forecast_Mean,17.03246005
+Forli,2016,June,Station,52.19941849
+Forli,2016,June,ERA5-Land*,94.50013675
+Forli,2016,June,Forecast_Mean,25.79893365
+Forli,2016,July,Station,52.19941849
+Forli,2016,July,ERA5-Land*,94.50013675
+Forli,2016,July,Forecast_Mean,37.26871222
+Forli,2016,August,Station,52.19941849
+Forli,2016,August,ERA5-Land*,94.50013675
+Forli,2016,August,Forecast_Mean,88.33063437
+Forli,2017,April,Station,1.575496788
+Forli,2017,April,ERA5-Land*,46.47686028
+Forli,2017,April,Forecast_Mean,16.77703839
+Forli,2017,June,Station,1.575496788
+Forli,2017,June,ERA5-Land*,46.47686028
+Forli,2017,June,Forecast_Mean,19.39557848
+Forli,2017,July,Station,1.575496788
+Forli,2017,July,ERA5-Land*,46.47686028
+Forli,2017,July,Forecast_Mean,25.36555226
+Forli,2017,August,Station,1.575496788
+Forli,2017,August,ERA5-Land*,46.47686028
+Forli,2017,August,Forecast_Mean,28.94093309
+Forli,2018,April,Station,33.78215336
+Forli,2018,April,ERA5-Land*,41.16670206
+Forli,2018,April,Forecast_Mean,20.87717642
+Forli,2018,June,Station,33.78215336
+Forli,2018,June,ERA5-Land*,41.16670206
+Forli,2018,June,Forecast_Mean,40.97128392
+Forli,2018,July,Station,33.78215336
+Forli,2018,July,ERA5-Land*,41.16670206
+Forli,2018,July,Forecast_Mean,45.94372675
+Forli,2018,August,Station,33.78215336
+Forli,2018,August,ERA5-Land*,41.16670206
+Forli,2018,August,Forecast_Mean,28.02903709
+Forli,2019,April,Station,5.600361367
+Forli,2019,April,ERA5-Land*,44.89282032
+Forli,2019,April,Forecast_Mean,19.52018119
+Forli,2019,June,Station,5.600361367
+Forli,2019,June,ERA5-Land*,44.89282032
+Forli,2019,June,Forecast_Mean,27.18988059
+Forli,2019,July,Station,5.600361367
+Forli,2019,July,ERA5-Land*,44.89282032
+Forli,2019,July,Forecast_Mean,28.1088787
+Forli,2019,August,Station,5.600361367
+Forli,2019,August,ERA5-Land*,44.89282032
+Forli,2019,August,Forecast_Mean,29.14206643
+Forli,2020,April,Station,8.937207323
+Forli,2020,April,ERA5-Land*,21.03267611
+Forli,2020,April,Forecast_Mean,18.63609789
+Forli,2020,June,Station,8.937207323
+Forli,2020,June,ERA5-Land*,21.03267611
+Forli,2020,June,Forecast_Mean,15.82363176
+Forli,2020,July,Station,8.937207323
+Forli,2020,July,ERA5-Land*,21.03267611
+Forli,2020,July,Forecast_Mean,26.49017735
+Forli,2020,August,Station,8.937207323
+Forli,2020,August,ERA5-Land*,21.03267611
+Forli,2020,August,Forecast_Mean,27.21574067
+Forli,2021,April,Station,0
+Forli,2021,April,ERA5-Land*,28.44291165
+Forli,2021,April,Forecast_Mean,14.64076976
+Forli,2021,June,Station,0
+Forli,2021,June,ERA5-Land*,28.44291165
+Forli,2021,June,Forecast_Mean,21.10872703
+Forli,2021,July,Station,0
+Forli,2021,July,ERA5-Land*,28.44291165
+Forli,2021,July,Forecast_Mean,19.10753526
+Forli,2021,August,Station,0
+Forli,2021,August,ERA5-Land*,28.44291165
+Forli,2021,August,Forecast_Mean,26.98062756
+Forli,2022,April,Station,34.40355
+Forli,2022,April,ERA5-Land*,87.8031168
+Forli,2022,April,Forecast_Mean,12.1923451
+Forli,2022,June,Station,34.40355
+Forli,2022,June,ERA5-Land*,87.8031168
+Forli,2022,June,Forecast_Mean,15.9072712
+Forli,2022,July,Station,34.40355
+Forli,2022,July,ERA5-Land*,87.8031168
+Forli,2022,July,Forecast_Mean,39.61516257
+Forli,2022,August,Station,34.40355
+Forli,2022,August,ERA5-Land*,87.8031168
+Forli,2022,August,Forecast_Mean,77.23686922
+Forli,2023,April,Station,28.92760104
+Forli,2023,April,ERA5-Land*,49.33904848
+Forli,2023,April,Forecast_Mean,23.35678325
+Forli,2023,June,Station,28.92760104
+Forli,2023,June,ERA5-Land*,49.33904848
+Forli,2023,June,Forecast_Mean,54.227624
+Forli,2023,July,Station,28.92760104
+Forli,2023,July,ERA5-Land*,49.33904848
+Forli,2023,July,Forecast_Mean,54.30176816
+Forli,2023,August,Station,28.92760104
+Forli,2023,August,ERA5-Land*,49.33904848
+Forli,2023,August,Forecast_Mean,38.93012184
+Forli,2024,April,Station,8.377934786
+Forli,2024,April,ERA5-Land*,87.27922789
+Forli,2024,April,Forecast_Mean,19.74638059
+Forli,2024,June,Station,8.377934786
+Forli,2024,June,ERA5-Land*,87.27922789
+Forli,2024,June,Forecast_Mean,25.2207647
+Forli,2024,July,Station,8.377934786
+Forli,2024,July,ERA5-Land*,87.27922789
+Forli,2024,July,Forecast_Mean,45.49168471
+Forli,2024,August,Station,8.377934786
+Forli,2024,August,ERA5-Land*,87.27922789
+Forli,2024,August,Forecast_Mean,69.60011585
+Forli,2025,April,Station,30.90655504
+Forli,2025,April,ERA5-Land*,95.86274004
+Forli,2025,April,Forecast_Mean,20.22825764
+Forli,2025,June,Station,30.90655504
+Forli,2025,June,ERA5-Land*,95.86274004
+Forli,2025,June,Forecast_Mean,21.10748362
+Forli,2025,July,Station,30.90655504
+Forli,2025,July,ERA5-Land*,95.86274004
+Forli,2025,July,Forecast_Mean,44.80679167
+Forli,2025,August,Station,30.90655504
+Forli,2025,August,ERA5-Land*,95.86274004
+Forli,2025,August,Forecast_Mean,80.17515818
